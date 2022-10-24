@@ -2,22 +2,27 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gavin Fay &amp; Ashleigh Novak">
-<meta name="dcterms.date" content="2022-07-24">
+<meta name="dcterms.date" content="2022-10-24">
 <meta name="description" content="This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology">
 
 <title>Faylab Lab Manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -163,11 +168,15 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome"> <span class="header-section-number">1</span> Welcome!</a></li>
+  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome"><span class="toc-section-number">1</span>  Welcome!</a>
+  <ul class="collapse">
+  <li><a href="#disclaimer" id="toc-disclaimer" class="nav-link" data-scroll-target="#disclaimer"><span class="toc-section-number">1.0.1</span>  Disclaimer</a></li>
+  <li><a href="#license" id="toc-license" class="nav-link" data-scroll-target="#license"><span class="toc-section-number">1.0.2</span>  License</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/thefaylab/lab-manual/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/thefaylab/lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -198,7 +207,7 @@ ul.task-list{list-style: none;}
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">July 24, 2022</p>
+      <p class="date">October 24, 2022</p>
     </div>
   </div>
     
@@ -209,22 +218,22 @@ ul.task-list{list-style: none;}
 
 <section id="welcome" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Welcome!</h1>
-<p>Welcome to our book of magical secrets.</p>
-<p><br> This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.<br>
-The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group’s research activity can be found on our <a href="https://thefaylab.com">website</a>.</p>
-<p>This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Gavin (gfay@umassd.edu) or make a pull request.</p>
+<p>Welcome to the MML Manual. This repo is intended for current staff of the Marine Mammal Laboratory at the Alaska Fisheries Science Center.</p>
+<p>This site serves as a central hub for information on how we do our work and our expectations for our team. It is also a space to document institutional knowledge and important information about procedures and available resources. If you have suggestions for additions or changes, please contact Nancy Friday (nancy.friday@noaa.gov) or make a pull request.</p>
 <p><br></p>
-<p>The content for this book was developed as part of our group’s participation in the <a href="https://openscapes.org">Openscapes Champions program</a>.<br>
-We are extremely grateful to and acknowledge <a href="https://twitter.com/juliesquid">Dr.&nbsp;Julia Stewart Lowndes</a>’ role in helping shape how our lab both works and how we articulate our identity. 🙏<br>
-Thanks also to <a href="https://twitter.com/_ileanaf">Ileana Fenwick</a> and <a href="https://twitter.com/StefanieButland">Stefanie Butland</a> for their work moving the lab-manual from bookdown to Quarto. 🙌<br>
-</p>
-<p><a href="https://github.com/thefaylab/lab-manual"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" class="img-fluid" data-fig-align="left" width="35"></a> &lt; link to this book’s GitHub repository. Also see <a href="https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&amp;-publishing-it">Quick steps to making a copy of the lab manual and publishing it</a>!</p>
+<p>The content for this site was developed as part of our group’s participation in the <a href="https://openscapes.org">Openscapes Champions program</a>. The structure was based on the excellent <a href="https://thefaylab.github.io/lab-manual/">Faylab Lab Manual</a>.</p>
 <p><img src="img/openscapes_hex_badge.png" class="img-fluid" style="width:25.0%"></p>
-<p><a href="https://openscapes.org"><em>We’re proud Openscapes Champions!</em></a></p>
 <hr>
-<p><a href="http://creativecommons.org/licenses/by/4.0/" data-fig-alt="Creative Commons License"><img src="img/creative_commons.png" class="img-fluid"></a>This lab is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a></p>
+<section id="disclaimer" class="level3" data-number="1.0.1">
+<h3 data-number="1.0.1" class="anchored" data-anchor-id="disclaimer"><span class="header-section-number">1.0.1</span> Disclaimer</h3>
+<p>This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.</p>
+</section>
+<section id="license" class="level3" data-number="1.0.2">
+<h3 data-number="1.0.2" class="anchored" data-anchor-id="license"><span class="header-section-number">1.0.2</span> License</h3>
+<p>This content was created by U.S. Government employees as part of their official duties. This content is not subject to copyright in the United States (17 U.S.C. §105) and is in the public domain within the United States of America. Additionally, copyright is waived worldwide through the CC0 1.0 Universal public domain dedication.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -297,7 +306,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

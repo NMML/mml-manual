@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -162,22 +167,22 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#working-hours" id="toc-working-hours" class="nav-link active" data-scroll-target="#working-hours"> <span class="header-section-number">6.1</span> Working hours</a></li>
-  <li><a href="#email" id="toc-email" class="nav-link" data-scroll-target="#email"> <span class="header-section-number">6.2</span> Email</a></li>
-  <li><a href="#attendance-at-regularly-scheduled-events" id="toc-attendance-at-regularly-scheduled-events" class="nav-link" data-scroll-target="#attendance-at-regularly-scheduled-events"> <span class="header-section-number">6.3</span> Attendance at regularly scheduled events</a></li>
-  <li><a href="#outreach" id="toc-outreach" class="nav-link" data-scroll-target="#outreach"> <span class="header-section-number">6.4</span> Outreach</a></li>
-  <li><a href="#expectations-for-the-pi" id="toc-expectations-for-the-pi" class="nav-link" data-scroll-target="#expectations-for-the-pi"> <span class="header-section-number">6.5</span> Expectations for the PI</a></li>
-  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students"> <span class="header-section-number">6.6</span> Graduate students</a>
+  <li><a href="#working-hours" id="toc-working-hours" class="nav-link active" data-scroll-target="#working-hours"><span class="toc-section-number">6.1</span>  Working hours</a></li>
+  <li><a href="#email" id="toc-email" class="nav-link" data-scroll-target="#email"><span class="toc-section-number">6.2</span>  Email</a></li>
+  <li><a href="#attendance-at-regularly-scheduled-events" id="toc-attendance-at-regularly-scheduled-events" class="nav-link" data-scroll-target="#attendance-at-regularly-scheduled-events"><span class="toc-section-number">6.3</span>  Attendance at regularly scheduled events</a></li>
+  <li><a href="#outreach" id="toc-outreach" class="nav-link" data-scroll-target="#outreach"><span class="toc-section-number">6.4</span>  Outreach</a></li>
+  <li><a href="#expectations-for-the-pi" id="toc-expectations-for-the-pi" class="nav-link" data-scroll-target="#expectations-for-the-pi"><span class="toc-section-number">6.5</span>  Expectations for the PI</a></li>
+  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students"><span class="toc-section-number">6.6</span>  Graduate students</a>
   <ul class="collapse">
-  <li><a href="#exp-funding" id="toc-exp-funding" class="nav-link" data-scroll-target="#exp-funding"> <span class="header-section-number">6.6.1</span> Funding</a></li>
+  <li><a href="#exp-funding" id="toc-exp-funding" class="nav-link" data-scroll-target="#exp-funding"><span class="toc-section-number">6.6.1</span>  Funding</a></li>
   </ul></li>
-  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students"> <span class="header-section-number">6.7</span> Undergraduate students</a></li>
-  <li><a href="#postdoctoral-researchers" id="toc-postdoctoral-researchers" class="nav-link" data-scroll-target="#postdoctoral-researchers"> <span class="header-section-number">6.8</span> Postdoctoral researchers</a></li>
-  <li><a href="#research-staff" id="toc-research-staff" class="nav-link" data-scroll-target="#research-staff"> <span class="header-section-number">6.9</span> Research staff</a></li>
+  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students"><span class="toc-section-number">6.7</span>  Undergraduate students</a></li>
+  <li><a href="#postdoctoral-researchers" id="toc-postdoctoral-researchers" class="nav-link" data-scroll-target="#postdoctoral-researchers"><span class="toc-section-number">6.8</span>  Postdoctoral researchers</a></li>
+  <li><a href="#research-staff" id="toc-research-staff" class="nav-link" data-scroll-target="#research-staff"><span class="toc-section-number">6.9</span>  Research staff</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/thefaylab/lab-manual/edit/main/05-expectations.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/thefaylab/lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -369,7 +374,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
