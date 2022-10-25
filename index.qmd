@@ -1,4 +1,4 @@
-**Welcome!**
+# Welcome!
 
 Welcome to the MML Manual. This repo is intended for current staff of the Marine Mammal Laboratory at the Alaska Fisheries Science Center.
 
