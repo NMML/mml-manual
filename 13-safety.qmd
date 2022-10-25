@@ -10,15 +10,58 @@ AFSC's Safety and Environmental Compliance Office (SECO) maintains the [Safety](
 - Safety training
 - Etc.
 
-## MML Lab Safety
+Additional information and documents are available in the [AFSC Safety folder](https://drive.google.com/drive/u/0/folders/0Bxd9wnakNHDidG92djFoSDFJdTQ?resourcekey=0-CCGigU8eW59YQ9RN9_8Wpg) on Google Drive. 
+
+## Lab Safety
 
 ### MML Shared Labs
 
--- Lab contacts
--- Requirements for accessing/using MML Shared Labs
--- General lab policies
--- Link to lab calendar
+![shared-labs-schematic](https://user-images.githubusercontent.com/97622252/197837761-51c09e9d-f889-45b0-adda-76bf623b624d.JPG)
+
+The MML Shared Labs are located on the first floor of Building 4. They are monitored by the Shared Labs Manager and one or more points of contact. Staff serving as POCs are responsible for the following:
+
+- Complete Lab Safety Training provided by the AFSC Safety Office every 5 years.
+- Conduct monthly safety inspections with their PL (Shared Labs Manager only).
+- Resolve or coordinate the resolution of any safety issues identified by the safety inspections within 1 month of identification.
+- Respond or coordinate the response to directives about lab spaces (e.g., Washington State Tier II chemical inventory, AFSC chemical inventory) accurately and on time.  
+- Resolve or coordinate the resolution of minor issues (e.g., unlabeled items in common areas, messes) identified by the Shared Labs Manager within 3 days of identification.
+- Ensure that all chemical products and specimens in chemicals are labeled, stored, and disposed of according to NOAA and AFSC Safety Office guidelines.
+- Other lab-related duties as assigned by AFSC Safety Office or MML leadership.
+ 
+Remember to include the Shared Labs Manager on all communications about safety issues and lab directives, as well as minor lab issues.
+
+| Contact | Phone Number |
+| --- | --- |
+| Katie Luxa (Shared Labs Manager) | 206-526-6316 |
+| Tom Gelatt (Supervisor) | 206-526-4040 |
+| Nancy Friday (Deputy Director) | 206-526-6266 |
+| AFSC Safety Office | 206-526-4165, 206-526-4361 |
+
+#### Requirements for Staff Working in Labs
+
+Staff working in the Shared Labs must demonstrate that they have completed the following:
+
+- AFSC [Lab Safety training](https://docs.google.com/forms/d/e/1FAIpQLSf9FENDWeC8QRoMHcI979rhOoYul8XKOx0-2FWyGegL8plnuQ/viewform/)
+- Lab orientation with Shared Labs Manager or Supervisor
+- Ability to find AFSC [MSDS/SDS online](https://app.riskandsafety.com/)
+- Read and understand relevant SOP(s)
+- Training on specialized equipment (e.g., steam kettle, tooth sectioning saw) and use of collections (e.g., food habits reference collection), if applicable
+
+Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gear cleaning) must demonstrate that they have completed the following:
+
+- AFSC [Hazardous Communications training](https://docs.google.com/forms/d/e/1FAIpQLSf9FENDWeC8QRoMHcI979rhOoYul8XKOx0-2FWyGegL8plnuQ/viewform/)
+- Lab orientation with Shared Labs Manager or Supervisor
+- Ability to find AFSC [MSDS/SDS online](https://app.riskandsafety.com/)
+
+#### General Laboratory Policies
+
 
 #### JHAs and SOPs
 
 Approved Job Hazard Analysis and Standard Operating Procedures documentation are required for all activities conducted in the MML Shared Labs. 
+
+### MML Acoustics Lab
+
+### MML Tech Lab???
+
+## Field Safety
