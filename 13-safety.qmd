@@ -37,7 +37,7 @@ Remember to include the Shared Labs Manager on all communications about safety i
 | Nancy Friday (Deputy Director) | 206-526-6266 |
 | AFSC Safety Office | 206-526-4165, 206-526-4361 |
 
-<br>
+<br />
 
 #### Requirements for Staff Working in Labs
 
@@ -56,6 +56,7 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 - Lab orientation with Shared Labs Manager or Supervisor
 - Ability to find AFSC [MSDS/SDS online](https://app.riskandsafety.com/)
 
+<br />
 
 #### General Lab Policies
 
@@ -68,6 +69,7 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 7. There is a 5-gallon carboy of 95% ethanol in the Dissection Lab that is available for all MML programs to share. If you notice the carboy is low/empty, ask the Shared Labs Manager to refill it.
 8. Working alone in the Shared Labs is not recommended. Notify your coworkers prior to working in the lab and ensure that at a minimum of 1 person is nearby and aware that the work is occurring. **Never enter or work in a walk-in freezer alone.**
 
+<br />
 
 #### JHAs and SOPs
 
