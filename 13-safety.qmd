@@ -73,7 +73,7 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 
 #### JHAs and SOPs
 
-Approved Job Hazard Analysis and Standard Operating Procedures documentation are required for all activities conducted in the MML Shared Labs. **Need to figure out this process.**
+Approved Job Hazard Analysis and Standard Operating Procedures documentation are required for all activities conducted in the MML Shared Labs. **Create a workflow for this...**
 
 <br />
 
@@ -93,6 +93,23 @@ Hazardous materials must be stored in appropriate containers and locations. For 
 
 Other items should be stored in your program’s designated area(s) of the labs or freezers. Storage is defined as *anything that will not be in use within the next week*. Items left in common areas will be reported to lab POCs.
 
+<br />
+
+#### Chemical Inventories and Reporting
+
+MML must maintain a detailed inventory of all chemicals used and stored in the field, offices, and storage areas. The inventory is for chemical products only, not specimens stored in chemicals - although your program should keep an inventory of such items for the Tier II Report (see below). 
+
+The Shared Labs Manager is responsible for reviewing the MML chemical inventory and updating this information in the [AFSC Chemical Inventory](https://app.riskandsafety.com/). This must be done at least annually. **Create a workflow for this...**
+
+**Washington State Tier II Hazardous Chemical Reporting**
+
+Each January, AFSC must report totals of ethanol, formaldehyde, and sulfuric acid to the State. This report includes *chemical products as well as specimens stored in chemicals*. In Nov-Dec, the Shared Labs Manager will reach out to programs about inventory these resources, and compile a summary report for AFSC SECO. 
+
+**Formalin Reporting**
+
+We are also required to report all new purchases of formalin or formaldehyde to AFSC SECO. Please notify the Shared Labs Manager if you buy these chemicals. 
+
+<br />
 
 ### MML Acoustics Lab
 
