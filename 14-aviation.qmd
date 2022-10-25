@@ -2,11 +2,11 @@
 
 ![](img/N56RF.jpg)
 
-The objective of this section is to provide an organized and centralized place for information about aviation safety equipment that is shared among MML Programs. It includes guidance on equipment inventory, usage, and maintenance, as well as, training requirements and tracking specific to field assignments that involve the use of aircraft.
+The objective of this section is to provide a centralized place for personnel to find information about aviation safety equipment that is shared among MML Programs. It includes information on aviation safety equipment inventory, usage, and maintenance, as well as, training requirements and compliance specific to field assignments that involve the use of aircraft.
 
 ## Equipment
 
-### Inventory
+*Inventory
 
 - Aviation drysuits
 - Immersion suits
@@ -16,19 +16,26 @@ The objective of this section is to provide an organized and centralized place f
 - PFD Assessories
 - Helmets
 
-### Check-out procedures
+*Check-out procedures
 
 - Link to aviation drysuit schedule and database
 
-### Maintenance
+*Maintenance
 
 ## Training
 
-### MML Requirements
+*MML Requirements
 
-### AOC Requirements
+*AOC Requirements
 
-### MML Training Database
+1. Aviation training modules
+2. Aviation training videos
+3. Aircraft Egress
+4. Cold Weather Survival
 
-The lab keeps track of training required for fieldwork for all personnel in a [MML Training Database](https://docs.google.com/spreadsheets/d/1gZfKhD85VjolvN2jiEc1u4dXaJbkZZTVuVN5v-qZZbk/edit#gid=1613635922). This database is maintained by the MML Operations team. To update your information, email a copy of your training certificate to Jim Freed (james.freed@noaa.gov). 
+[MML Safety Training Memo](https://drive.google.com/drive/folders/1eLWtvgADLWyD467AjoP9x-Z97PQPeoZU)
+
+*MML Training Database
+
+The lab keeps track of fieldwork training completed by all personnel in a [MML Training Database](https://docs.google.com/spreadsheets/d/1gZfKhD85VjolvN2jiEc1u4dXaJbkZZTVuVN5v-qZZbk/edit#gid=1613635922). The database is organized by Program and maintained by the MML Operations team. To update your information, email a copy of your training certificate to Jim Freed (james.freed@noaa.gov). 
 
