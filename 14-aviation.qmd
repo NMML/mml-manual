@@ -1,5 +1,7 @@
 # Aviation Safety
 
+![](img/N56RF.jpg)
+
 The objective of this section is to provide an organized and centralized place for information about aviation safety equipment that is shared among MML Programs. It includes guidance on equipment inventory, usage, and maintenance, as well as, training requirements and tracking specific to field assignments that involve the use of aircraft.
 
 ## Equipment
@@ -14,7 +16,7 @@ The objective of this section is to provide an organized and centralized place f
 - PFD Assessories
 - Helmets
 
-### Check-out procedure
+### Check-out procedures
 
 - Link to aviation drysuit schedule and database
 
@@ -26,6 +28,7 @@ The objective of this section is to provide an organized and centralized place f
 
 ### AOC Requirements
 
-### Tracking
+### MML Training Database
 
+The lab keeps track of training required for fieldwork for all personnel in a [MML Training Database](https://docs.google.com/spreadsheets/d/1gZfKhD85VjolvN2jiEc1u4dXaJbkZZTVuVN5v-qZZbk/edit#gid=1613635922). This database is maintained by the MML Operations team. To update your information, email a copy of your training certificate to Jim Freed (james.freed@noaa.gov). 
 
