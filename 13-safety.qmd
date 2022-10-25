@@ -61,7 +61,7 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 #### General Lab Policies
 
 1. The Shared Labs are available to all staff and, at present, we do not require advance reservations to use them. However, to avoid potential scheduling conflicts, staff are **highly** encouraged to put their lab plans on the [MML Shared Labs Google calendar](https://calendar.google.com/calendar/u/0?cid=bm9hYS5nb3ZfZTVybmY2dGdjNXVraWQxZGhkcjNia2xwZWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-2. Ensure that all specimens, equipment, etc. are stored and labeled according to MML Shared Labs policy (see section below).
+2. Ensure that all specimens, equipment, etc. are stored and labeled according to MML Shared Labs guidelines (see section below).
 3. *Clean up after yourself!* Please make sure program storage areas are organized and common areas are clean and clutter-free. Notify the Shared Labs Manager of any issues that require attention. 
 4. No nitrile gloves outside of the labs. If you need to leave your workstation to go to your office or talk to someone, dispose of your gloves and get a new pair when you return.
 5. Turn on hood fans before working in the labs, especially if you are doing anything that might have a strong smell (e.g., using steam kettles, processing scats). Turn the dial to the maximum time. Control dials are located in the Food Habits and Tooth Labs. 
@@ -73,7 +73,26 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 
 #### JHAs and SOPs
 
-Approved Job Hazard Analysis and Standard Operating Procedures documentation are required for all activities conducted in the MML Shared Labs. 
+Approved Job Hazard Analysis and Standard Operating Procedures documentation are required for all activities conducted in the MML Shared Labs. **Need to figure out this process.**
+
+<br />
+
+#### Storage and Labels
+
+All hazardous materials in the labs must be labeled according to AFSC and OSHA guidelines. At minimum, this includes the chemical name and primary hazard (pictogram sticker). **Unknown, unlabeled chemicals are a dangerous and expensive hazard.** They cannot be disposed of until they are identified and tests cost approximately $800 per sample. Pictogram stickers are available from the Shared Labs Manager or AFSC SECO. 
+
+Non-hazardous items should also be clearly labeled with a contact name or program and a description of the item (e.g., SSL scats). For walk-in freezer items, paper tags, Sharpies, and color-coded flagging tape are available in the Freezer Room. Color-coded masking tape (for cabinet doors) is available from the Shared Labs Manager.
+
+![](https://user-images.githubusercontent.com/97622252/197849208-a6cc8726-9e8f-4345-b1b3-e11a0a98fd94.JPG)
+
+Hazardous materials must be stored in appropriate containers and locations. For example:
+
+- Only store compatible materials together (e.g., flammables with flammables).
+- No liquid hazards may be stored above eye level.
+- Corrosives must be stored in a secondary container.
+
+Other items should be stored in your program’s designated area(s) of the labs or freezers. Storage is defined as *anything that will not be in use within the next week*. Items left in common areas will be reported to lab POCs.
+
 
 ### MML Acoustics Lab
 
