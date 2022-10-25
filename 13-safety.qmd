@@ -16,7 +16,7 @@ Additional information and documents are available in the [AFSC Safety folder](h
 
 ### MML Shared Labs
 
-![shared-labs-schematic](https://user-images.githubusercontent.com/97622252/197837761-51c09e9d-f889-45b0-adda-76bf623b624d.JPG)
+![MML Shared Labs schematic (not to scale)](https://user-images.githubusercontent.com/97622252/197837761-51c09e9d-f889-45b0-adda-76bf623b624d.JPG)
 
 The MML Shared Labs are located on the first floor of Building 4. They are monitored by the Shared Labs Manager and one or more points of contact. Staff serving as POCs are responsible for the following:
 
@@ -37,11 +37,13 @@ Remember to include the Shared Labs Manager on all communications about safety i
 | Nancy Friday (Deputy Director) | 206-526-6266 |
 | AFSC Safety Office | 206-526-4165, 206-526-4361 |
 
+
 #### Requirements for Staff Working in Labs
 
 Staff working in the Shared Labs must demonstrate that they have completed the following:
 
 - AFSC [Lab Safety training](https://docs.google.com/forms/d/e/1FAIpQLSf9FENDWeC8QRoMHcI979rhOoYul8XKOx0-2FWyGegL8plnuQ/viewform/)
+- Read and understand the AFSC Chemical Hygiene Plan
 - Lab orientation with Shared Labs Manager or Supervisor
 - Ability to find AFSC [MSDS/SDS online](https://app.riskandsafety.com/)
 - Read and understand relevant SOP(s)
@@ -53,7 +55,17 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 - Lab orientation with Shared Labs Manager or Supervisor
 - Ability to find AFSC [MSDS/SDS online](https://app.riskandsafety.com/)
 
-#### General Laboratory Policies
+
+#### General Lab Policies
+
+1. The Shared Labs are available to all staff and, at present, we do not require advance reservations to use them. However, to avoid potential scheduling conflicts, staff are **highly** encouraged to put their lab plans on the [MML Shared Labs Google calendar](https://calendar.google.com/calendar/u/0?cid=bm9hYS5nb3ZfZTVybmY2dGdjNXVraWQxZGhkcjNia2xwZWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+2. Ensure that all specimens, equipment, etc. are stored and labeled according to MML Shared Labs policy (see section below).
+3. *Clean up after yourself!* Please make sure program storage areas are organized and common areas are clean and clutter-free. Notify the Shared Labs Manager of any issues that require attention. 
+4. No nitrile gloves outside of the labs. If you need to leave your workstation to go to your office or talk to someone, dispose of your gloves and get a new pair when you return.
+5. Turn on hood fans before working in the labs, especially if you are doing anything that might have a strong smell (e.g., using steam kettles, processing scats). Turn the dial to the maximum time. Control dials are located in the Food Habits and Tooth Labs. 
+6. Dispose of lab waste in the proper receptacles (see section below).
+7. There is a 5-gallon carboy of 95% ethanol in the Dissection Lab that is available for all MML programs to share. If you notice the carboy is low/empty, ask the Shared Labs Manager to refill it.
+8. Working alone in the Shared Labs is not recommended. Notify your coworkers prior to working in the lab and ensure that at a minimum of 1 person is nearby and aware that the work is occurring. **Never enter or work in a walk-in freezer alone.**
 
 
 #### JHAs and SOPs
