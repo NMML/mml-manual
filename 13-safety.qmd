@@ -16,7 +16,7 @@ Additional information and documents are available in the [AFSC Safety folder](h
 
 ### MML Shared Labs
 
-![MML Shared Labs schematic (not to scale)](https://user-images.githubusercontent.com/97622252/197837761-51c09e9d-f889-45b0-adda-76bf623b624d.JPG)
+![](https://user-images.githubusercontent.com/97622252/197837761-51c09e9d-f889-45b0-adda-76bf623b624d.JPG)
 
 The MML Shared Labs are located on the first floor of Building 4. They are monitored by the Shared Labs Manager and one or more points of contact. Staff serving as POCs are responsible for the following:
 
@@ -37,6 +37,7 @@ Remember to include the Shared Labs Manager on all communications about safety i
 | Nancy Friday (Deputy Director) | 206-526-6266 |
 | AFSC Safety Office | 206-526-4165, 206-526-4361 |
 
+<br>
 
 #### Requirements for Staff Working in Labs
 
