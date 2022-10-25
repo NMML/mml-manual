@@ -4,6 +4,6 @@ This Quarto book is intended to be used for **current** staff of the Marine Mamm
 
 We hope this has all the answers you need!
 
-**Acknowledgements**
+## Acknowledgements
 
 This site was based on the excellent [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/) and developed as part of our group’s participation in the [Openscapes Champions program](https://www.openscapes.org/).
