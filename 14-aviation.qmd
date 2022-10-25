@@ -1,1 +1,31 @@
+# Aviation Safety
+
+The objective of this section is to provide an organized and centralized place for information about aviation safety equipment that is shared among MML Programs. It includes guidance on equipment inventory, usage, and maintenance, as well as, training requirements and tracking specific to field assignments that involve the use of aircraft.
+
+## Equipment
+
+### Inventory
+
+- Aviation drysuits
+- Immersion suits
+- PFDs
+- HEEDs
+- PLBs
+- PFD Assessories
+- Helmets
+
+### Check-out procedure
+
+- Link to aviation drysuit schedule and database
+
+### Maintenance
+
+## Training
+
+### MML Requirements
+
+### AOC Requirements
+
+### Tracking
+
 
