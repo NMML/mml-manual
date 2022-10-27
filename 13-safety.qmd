@@ -111,6 +111,29 @@ We are also required to report all new purchases of formalin or formaldehyde to 
 
 <br />
 
+#### Cleaning and Waste Disposal
+
+Please clean up after yourself in the labs. There are loads of cleaning supplies and tools available to you. 
+
+- Scrub or wipe down surfaces. 
+- Put away supplies, tools, and equipment.
+- Dispose of waste in the appropriate receptable (see below). 
+- Make sure anything you leave in a common space is well-labeled.
+- If working in a sink, pouring off excess liquids from a bucket, or emptying a steam kettle, use a drain catcher or metal sieve to catch solids. 
+- For bigger messes in the Dissection Lab, you can hose down surfaces and clean with Simple Green or another disinfectant. Waste water can go into the floor drains marked SEWER (you can use the small plastic broom and floor squeegee). Do not use the drains marked BLOOD! 
+
+| Waste type | Instructions |
+| --- | --- |
+| Biowaste | All solid organic matter (e.g., tissue, bone, etc.) should be collected in Building 4 walk-in freezer. There are two large garbage cans on casters for this purpose. Absolutely no trash or plastic, and no tissues preserved in chemicals (e.g., ethanol, formalin). Do not fill bins more than 3/4 full. If needed, put excess waste in a 5-gallon bucket with a lid. *Note: There is no longer a waste receptacle in the Building 32 walk-in - if this is something you need, contact the Shared Labs Manager.* |
+| Chemicals | There are glass jars on the counter in the Pelagic Lab for collecting waste alcohol, DMSO, and formalin. If you need a new container, grab an empty jar from the "ref collection glassware" cabinet; be sure to label it appropriately. **Never dispose of chemicals in sinks or floor drains - even highly diluted ethanol!** |
+| Broken glass | There is a broken glass bucket located in the Dissection Lab. *Never put broken glass in the garbage or sharps containers.* |
+| Sharps | Used scalpels, needles, and other sharps go in the yellow/red plastic biohazard containers - there are several located throughout the labs. |
+| Batteries | Dead batteries go in the Universal Waste boxes in the MML Copy Room. |
+
+The Shared Labs Manager will monitor biowaste receptables and coordinate pick-up/disposal by Baker Commodities (rendering plant). Otherwise, if you see that a waste receptacle is full, fill out the [AFSC Waste Pickup Form](https://docs.google.com/forms/d/1VxVJjPymX4pyssAerCk21D45KMvLnEIUtt6jV1roep0/viewform?edit_requested=true).  Please note that there is a Center-wide monthly limit on formalin/formaldehyde disposal. If you need to dispose of large amounts of these chemicals, please coordinate with SECO before you begin. 
+
+<br />
+
 ### MML Acoustics Lab
 
 ### MML Tech Lab???
