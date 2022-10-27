@@ -16,7 +16,7 @@ Additional information and documents are available in the [AFSC Safety folder](h
 
 ### MML Shared Labs
 
-![](https://user-images.githubusercontent.com/97622252/197837761-51c09e9d-f889-45b0-adda-76bf623b624d.JPG)
+![](/img/shared-labs-schematic.JPG)
 
 The MML Shared Labs are located on the first floor of Building 4. They are monitored by the Shared Labs Manager and one or more points of contact. Staff serving as POCs are responsible for the following:
 
@@ -83,7 +83,7 @@ All hazardous materials in the labs must be labeled according to AFSC and OSHA g
 
 Non-hazardous items should also be clearly labeled with a contact name or program and a description of the item (e.g., SSL scats). For walk-in freezer items, paper tags, Sharpies, and color-coded flagging tape are available in the Freezer Room. Color-coded masking tape (for cabinet doors) is available from the Shared Labs Manager.
 
-![](https://user-images.githubusercontent.com/97622252/197849208-a6cc8726-9e8f-4345-b1b3-e11a0a98fd94.JPG)
+![](/img/flagging-tape.JPG)
 
 Hazardous materials must be stored in appropriate containers and locations. For example:
 
@@ -124,7 +124,7 @@ Please clean up after yourself in the labs. There are loads of cleaning supplies
 
 | Waste type | Instructions |
 | --- | --- |
-| Biowaste | All solid organic matter (e.g., tissue, bone, etc.) should be collected in Building 4 walk-in freezer. There are two large garbage cans on casters for this purpose. Absolutely no trash or plastic, and no tissues preserved in chemicals (e.g., ethanol, formalin). Do not fill bins more than 3/4 full. If needed, put excess waste in a 5-gallon bucket with a lid. *Note: There is no longer a waste receptacle in the Building 32 walk-in - if this is something you need, contact the Shared Labs Manager.* |
+| Biowaste | Solid organic matter (e.g., tissue, bone, etc.) should be collected in the Building 4 walk-in freezer. There are two large garbage cans on casters for this purpose. Absolutely no trash or plastic, and no tissues preserved in chemicals (e.g., ethanol, formalin). Do not fill bins more than 3/4 full. If needed, put excess waste in a 5-gallon bucket with a lid. *Note: There is no longer a waste receptacle in the Building 32 walk-in - if this is something you need, contact the Shared Labs Manager.* |
 | Chemicals | There are glass jars on the counter in the Pelagic Lab for collecting waste alcohol, DMSO, and formalin. If you need a new container, grab an empty jar from the "ref collection glassware" cabinet; be sure to label it appropriately. **Never dispose of chemicals in sinks or floor drains - even highly diluted ethanol!** |
 | Broken glass | There is a broken glass bucket located in the Dissection Lab. *Never put broken glass in the garbage or sharps containers.* |
 | Sharps | Used scalpels, needles, and other sharps go in the yellow/red plastic biohazard containers - there are several located throughout the labs. |
