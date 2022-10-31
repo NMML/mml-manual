@@ -111,6 +111,30 @@ We are also required to report all new purchases of formalin or formaldehyde to 
 
 <br />
 
+#### Freezers
+
+MML has 2 large walk-in freezers, 1 mini fridge, 1 commercial standing freezer, and 4 ultra-low standing freezers. **Freezers are for biological specimens only - absolutely no food or beverages are allowed.** Emergency contacts are posted on the door of each unit. 
+
+| Freezer | Program | Location | Contents |
+| --- | --- | --- | --- |
+| -40° (#1) | AEP | Freezer Room | Genetic samples |
+| -80° (#2) | PEP & AEP | Freezer Room | PEP blood and genetics samples, AEP blood samples |
+| -40° (#3) | CCEP | Freezer Room | Blood and genetic samples |
+| -80° (#4) | AEP | Freezer Room | Blood samples |
+| -20° (standing) | CCEP | Tooth Lab | ??? |
+| -20° (walk-in) | Shared | Freezer Room | Diet and tissue samples, etc. |
+| -20° (walk-in) | Shared | Bldg 32 | Diet and tissue samples, etc. |
+| Mini-fridge | Shared | Pelagic Lab | Sample controls |
+
+General reminders:
+- Do not store samples in another program's freezer without their express permission.
+- Never put dry ice in the walk-in freezers - this is a suffocation hazard.
+- Be sure that freezer doors are firmly closed when you're done.
+- Protect your hands when working with samples in/from the ultra-low freezers.
+- If you are shipping frozen samples, there are extra cold packs in the Bldg 4 walk-in and some insulated boxes under the counter. 
+
+<br />
+
 #### Cleaning and Waste Disposal
 
 Please clean up after yourself in the labs. There are loads of cleaning supplies and tools available to you. 
@@ -131,6 +155,21 @@ Please clean up after yourself in the labs. There are loads of cleaning supplies
 | Batteries | Dead batteries go in the Universal Waste boxes in the MML Copy Room. |
 
 The Shared Labs Manager will monitor biowaste receptables and coordinate pick-up/disposal by Baker Commodities (rendering plant). Otherwise, if you see that a waste receptacle is full, fill out the [AFSC Waste Pickup Form](https://docs.google.com/forms/d/1VxVJjPymX4pyssAerCk21D45KMvLnEIUtt6jV1roep0/viewform?edit_requested=true).  Please note that there is a Center-wide monthly limit on formalin/formaldehyde disposal. If you need to dispose of large amounts of these chemicals, please coordinate with SECO before you begin. 
+
+<br />
+
+#### Other Shared Labs Resources
+
+- Electric chain hoist
+- Steam kettles (2)
+- Dissecting microscopes
+- Ultrasonic cleaner (small)
+- Digital scales...
+- Tooth saw...
+- Tooth grinder...
+- Freezing microtome...
+
+At this time, there is not a chemical fume hood available in the Shared Labs. Options include the hood in the MML Tech Lab (typically used for charging UAS batteries) or the REFM Food Habits Lab (contact Geoff Lang and Rick Hibpshman).
 
 <br />
 
