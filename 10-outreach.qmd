@@ -27,12 +27,13 @@ You can get a sneak peak of what's in the MML collection by perusing the [Invent
 
 ### Reserving MML Outreach Materials
 To reserve the MML outreach materials, check the [MML Outreach Calendar](https://calendar.google.com/calendar/u/0?cid=bm9hYS5nb3ZfdnY5cWFuZGppa2ozaDNnZWQ3MjFrbWdubmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to ensure there's not a conflict with another reservation, and then create an event to cover the days you'll need the materials. Inlcude the following in your event details: 
+
 - your name
 - name of the event you're attending
 - date, time, location of the event itself
 - reserve the days that you'll need to pickup and drop off supplies
 
-When your event is completed, please return materials promptly and [**RECORD YOUR OUTREACH EVENT HERE**] (https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/outreach-participation) to help the center track staff participation. 
+When your event is completed, please return materials promptly and [**RECORD YOUR OUTREACH EVENT HERE**](https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/outreach-participation) to help the center track staff participation. 
 
 - Include descriptions of some PEP outreach projects and the acoustic slideshow
 
@@ -42,7 +43,7 @@ See the [AFSC Education & Outreach](https://sites.google.com/noaa.gov/myafsc/com
 
 Feel free to contact [Erin Moreland](erin.moreland@noaa.gov) or [Michelle Lander](michelle.lander@noaa.gov) for assistence. 
 
-## [**RECORD YOUR OUTREACH EVENT HERE**] (https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/outreach-participation)
+## [**RECORD YOUR OUTREACH EVENT HERE! Thanks!**](https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/outreach-participation)
 
 ### formating in qmd
 
