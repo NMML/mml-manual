@@ -16,9 +16,9 @@ This section provides a centralized place for personnel to find information abou
 - PFD Assessories
 - Helmets
 
-*Check-out procedures
+*Check-out procedures*
 
-- Link to aviation drysuit schedule and database
+To reserve aviation drysuits for a project, use the [Aviation Drysuit Schedule](https://docs.google.com/spreadsheets/d/1ai4B0oY7uNZ490zJEFgdh12kaRNWO80JBwicHcIDV_Y/edit#gid=0). Use the previous year's tab to see reservation conventions for various projects.
 
 *Maintenance*
 
@@ -26,7 +26,7 @@ This section provides a centralized place for personnel to find information abou
 
 NOAA's Office of Marine and Aviation Operations (OMAO) governs the [Aviation Safety Program](https://www.omao.noaa.gov/learn/aircraft-operations/about/aviation-safety-program) which provides policy and guidance to support the safe operation and use of aircraft.
 
-An overview of all safety-related training that is required or recommended for MML staff and affiliates is detailed in the [MML Safety Training Memo](https://drive.google.com/drive/folders/1eLWtvgADLWyD467AjoP9x-Z97PQPeoZU). Training specific to aerial surveys is outlined in bullet 4 of the memo and included below.
+An overview of all safety-related training that is required or recommended for MML staff and affiliates is detailed in the [MML Safety Training Memo](https://drive.google.com/file/d/1WXErW4sDpQLKOvnVK2PsioK_uas_LvXf/view?usp=sharing). Training specific to aerial surveys is outlined in bullet 4 of the memo and included below.
 
 All participants in NOAA aerial surveys must complete the following:
 
