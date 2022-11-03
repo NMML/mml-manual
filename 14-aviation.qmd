@@ -30,7 +30,7 @@ An overview of all safety-related training that is required or recommended for M
 
 All participants in NOAA aerial surveys must complete the following:
 | Training                                 | Required Frequency | MML Recommended Frequency | Notes & Links                                       |
-|-----------------------------------------:|--------------------|---------------------------|-----------------------------------------------------| 
+|:---------------------------------------- |   :------------:   |       :-----------:       |:----------------------------------------------------| 
 | Aviation Egress                          |   every 5 years    |       every 3 years       |                                                     |
 | Helicopter Emergency Egress Device (HEED)|   every 5 years    |                           | only need if carrying a HEED device                 |
 | Aviation Safety & Cold Weather Survival  |   every 5 years    |       every 3 years       | topics covered in and combined with Aviation Egress |
