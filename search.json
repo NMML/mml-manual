@@ -347,7 +347,21 @@
     "href": "10-outreach.html",
     "title": "11  Outreach",
     "section": "",
-    "text": "DRAFT (eem)\nParticipating in outreach is encouraged for all MML staff. This includes anything from a formal NOAA event to simply visiting a classroom to teach kids about marine mammals. On this page you’ll find information about existing outreach materials as well, instruction on how to reserve materials, and other ideas you can add to!\n\n11.0.1 Outreach Ideas\nThere are a number of local outreach opportunties including:\nPolar Science Days at the Pacific Science Center Marine Mammal Mania at the Seattle Aquarium NOAA Live! Alaska\netc, etc, etc - look for more regular events you’ve forgotten about…\nschool events - science fair judge, classroom volunteer, etc\n\n\n11.0.2 Outreach Materials\nMML outreach materials (Link to document with inventory?) - provide description of materials, location, and check out instructions here\nInclude descriptions of some PEP outreach projects and the acoustic slideshow Include link to presentation folder\n\n\n11.0.3 formating in qmd\nItalize: asterisks bold: underscore insert pictures: add pictures to the img folder then #"
+    "text": "Add pictures from outreach events\nDRAFT (eem)\nParticipating in outreach is encouraged for all MML staff. This includes anything from a formal NOAA event to simply visiting a classroom to teach kids about marine mammals. On this page you’ll find information about existing outreach materials as well, instruction on how to reserve materials, and other ideas you can add to!"
+  },
+  {
+    "objectID": "10-outreach.html#outreach-ideas",
+    "href": "10-outreach.html#outreach-ideas",
+    "title": "11  Outreach",
+    "section": "11.1 Outreach Ideas",
+    "text": "11.1 Outreach Ideas\nThere are a number of local outreach opportunties including:\n\nPolar Science Days at the Pacific Science Center\nMarine Mammal Mania at the Seattle Aquarium\nNOAA Live! Alaska\n\netc, etc, etc - look for more regular events you’ve forgotten about…\nschool events - science fair judge, classroom volunteer, etc"
+  },
+  {
+    "objectID": "10-outreach.html#outreach-materials",
+    "href": "10-outreach.html#outreach-materials",
+    "title": "11  Outreach",
+    "section": "11.2 Outreach Materials",
+    "text": "11.2 Outreach Materials\nMML outreach materials (Link to document with inventory?) - provide description of materials, location, and check out instructions here - Inventory - To reserve the MML outreach materials, check the MML Outreach Calendar to ensure there’s not a conflict with another reservation, and then create an event to cover the days you’ll need the equipment and inlcude the following in your event details: - – your name - – name of the event you’re attending - – date, time, location of the event itself - – reserve the days that you’ll need to pickup and drop off supplies - - Include descriptions of some PEP outreach projects and the acoustic slideshow\nCreative MMLites have created and built upon a number of powerpoint presentations over the years. Feel free to make use of and contribute to these MML Outreach presentation materials.\n\n11.2.1 formating in qmd\n\nItalize: asterisks or underscore\nbold: double asterisks\ninsert pictures: add pictures to the img folder then #"
   },
   {
     "objectID": "11-computing.html",
