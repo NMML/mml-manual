@@ -31,14 +31,14 @@ An overview of all safety-related training that is required or recommended for M
 Aerial Surveys – all participants in NOAA aerial surveys must complete the following:
 
 1. Aviation Egress – required every 5 years, MML recommends every 3 years (2-day class).
-    + Helicopter Emergency Egress Device (HEED) – required every 5 years, in coordination with above training (4-hour class) if planning to carry a HEED device.
+   + Helicopter Emergency Egress Device (HEED) – required every 5 years, in coordination with above training (4-hour class) if planning to carry a HEED device.
 2. Aviation Safety & Cold Weather Survival – required 1 time, MML requires every 5 years, recommends every 3 years (this course has always been combined and topics covered with the 2-day required Aviation Egress training course for MML).
 3. Egress Videos – required to watch annually [Link to FAA videos](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/med_pilots/aircrew_
 videos/) (2.5 hours of videos).
 4. Online CLC Courses - required annually, recommended for contracted transport flights to remote field sites (https://doc.csod.com/catalog/CustomPage.aspx?id=20000416):
-    + NOAA Aviation Policy & Procedures – required for NOAA participants.
-    + Basic Aviation Safety & Survival – required for both NOAA and non-NOAA participants.
-    + Aviation Health – required for both NOAA and non-NOAA participants.
+   + NOAA Aviation Policy & Procedures – required for NOAA participants.
+   + Basic Aviation Safety & Survival – required for both NOAA and non-NOAA participants.
+   + Aviation Health – required for both NOAA and non-NOAA participants.
 
 *MML Training Database*
 
