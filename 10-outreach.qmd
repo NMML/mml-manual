@@ -21,19 +21,28 @@ school events - science fair judge, classroom volunteer, etc
 
 ## Outreach Materials
 
-MML outreach materials (Link to document with inventory?) - provide description of materials, location, and check out instructions here 
-- [Inventory](https://docs.google.com/document/d/0B_omi4vXP064Rl9xTGV2a0xyYmowTnlPR1U4MWFSTXpYaFRv/edit?resourcekey=0-sEV7CbC4j-PaLg1kiyOKbA)
-- To reserve the MML outreach materials, check the [MML Outreach Calendar](https://calendar.google.com/calendar/u/0?cid=bm9hYS5nb3ZfdnY5cWFuZGppa2ozaDNnZWQ3MjFrbWdubmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to ensure there's not a conflict with another reservation, and then create an event to cover the days you'll need the equipment and inlcude the following in your event details: 
-- -- your name
-- -- name of the event you're attending
-- -- date, time, location of the event itself
-- -- reserve the days that you'll need to pickup and drop off supplies
-- 
+There are outreach materials available through both the MML as well as the AFSC Communications department. There you can find banners and more general materials as well as fisheries specific supplies. The MML collection is more marine mammal focused and includes a more extensive selection of pelts, skulls, baleen, and plenty of whale lice, which is always a big hit!
+
+You can get a sneak peak of what's in the MML collection by perusing the [Inventory](https://docs.google.com/document/d/0B_omi4vXP064Rl9xTGV2a0xyYmowTnlPR1U4MWFSTXpYaFRv/edit?resourcekey=0-sEV7CbC4j-PaLg1kiyOKbA). These materials are stored in the shared storage room ##? under the counter across from PEP's storage locker.  Feel free to sort through these bins to put together what you would like to take to your outreach event. 
+
+### Reserving MML Outreach Materials
+To reserve the MML outreach materials, check the [MML Outreach Calendar](https://calendar.google.com/calendar/u/0?cid=bm9hYS5nb3ZfdnY5cWFuZGppa2ozaDNnZWQ3MjFrbWdubmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to ensure there's not a conflict with another reservation, and then create an event to cover the days you'll need the materials. Inlcude the following in your event details: 
+- your name
+- name of the event you're attending
+- date, time, location of the event itself
+- reserve the days that you'll need to pickup and drop off supplies
+
+When your event is completed, please return materials promptly and [**RECORD YOUR OUTREACH EVENT HERE**] (https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/outreach-participation) to help the center track staff participation. 
+
 - Include descriptions of some PEP outreach projects and the acoustic slideshow
 
 Creative MMLites have created and built upon a number of powerpoint presentations over the years. Feel free to make use of and contribute to these [MML Outreach presentation materials](https://drive.google.com/drive/folders/1dRKkJzLLPw__Rq30W6CWsGiWX2OaXLEj).
 
+See the [AFSC Education & Outreach](https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education)to see what else is available through the Communications division. 
 
+Feel free to contact [Erin Moreland](erin.moreland@noaa.gov) or [Michelle Lander](michelle.lander@noaa.gov) for assistence. 
+
+## [**RECORD YOUR OUTREACH EVENT HERE**] (https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/outreach-participation)
 
 ### formating in qmd
 
