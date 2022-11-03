@@ -30,13 +30,13 @@ An overview of all safety-related training that is required or recommended for M
 
 All participants in NOAA aerial surveys must complete the following:
 
-| Training                                 | Required Frequency | Recommended Frequency | Notes & Links                                       |
+| Training                                 | Required Frequency | Recommended Frequency | Notes                                               |
 |:---------------------------------------- |:------------------:|:---------------------:|:----------------------------------------------------| 
 | Aviation Egress                          |   every 5 years    |     every 3 years     |                                                     |
-| Helicopter Emergency Egress Device (HEED)|   every 5 years    |                       | -can be combined with Aviation Egress<br><br>-only need if carrying a HEED device |
-| Aviation Safety & Cold Weather Survival  |   every 5 years    |     every 3 years     | topics are covered in and combined with Aviation Egress |
-| [Egress Videos](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/med_pilots/aircrew_videos/) |   annually         | 2.5 hours of material |
-| [Online Commerce Learning Center (CLC) Courses](https://doc.csod.com/catalog/CustomPage.aspx?id=20000416) |   annually    |                       | -recommended for contracted transport flights to/from remote field sites<br><br>-Courses include: NOAA Aviation Policy & Procedures, Basic Aviation Safety & Survival, and Aviation Health |
+| Helicopter Emergency Egress Device (HEED)|   every 5 years    |                       | Can be combined with Aviation Egress.<br><br>Only need if carrying a HEED device. |
+| Aviation Safety & Cold Weather Survival  |   every 5 years    |     every 3 years     | Topics are covered in and combined with Aviation Egress. |
+| [Egress Videos](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/med_pilots/aircrew_videos/) |   annually         |     | 2.5 hours of material |
+| Online Commerce Learning Center [(CLC) Courses](https://doc.csod.com/catalog/CustomPage.aspx?id=20000416) |   annually    |                       | Recommended for contracted transport flights to/from remote field sites.<br><br>Courses include:<ul><li>NOAA Aviation Policy & Procedures</li><li>Basic Aviation Safety & Survival</li><li>Aviation Health</li><ul> |
  
 *MML Training Database*
 
