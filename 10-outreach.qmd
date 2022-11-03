@@ -1,40 +1,46 @@
 # Outreach {#outreach}
  
- Add pictures from outreach events
-
+Add pictures from outreach events
 
 DRAFT (eem)
 
 Participating in outreach is encouraged for all MML staff. This includes anything from a formal NOAA event to simply visiting a classroom to teach kids about marine mammals. On this page you'll find information about existing outreach materials as well, instruction on how to reserve materials, and other ideas you can add to!
 
-### Outreach Ideas 
+## Outreach Ideas 
 
 There are a number of local outreach opportunties including:
 
-Polar Science Days at the [Pacific Science Center](https://pacificsciencecenter.org/)
-Marine Mammal Mania at the [Seattle Aquarium](https://www.seattleaquarium.org/)
-[NOAA Live! Alaska](https://www.fisheries.noaa.gov/alaska/outreach-and-education/noaa-live-alaska)
+- Polar Science Days at the [Pacific Science Center](https://pacificsciencecenter.org/)
+- Marine Mammal Mania at the [Seattle Aquarium](https://www.seattleaquarium.org/)
+- [NOAA Live! Alaska](https://www.fisheries.noaa.gov/alaska/outreach-and-education/noaa-live-alaska)
 
 etc, etc, etc - look for more regular events you've forgotten about... 
 
 school events - science fair judge, classroom volunteer, etc
 
 
-### Outreach Materials
+## Outreach Materials
 
 MML outreach materials (Link to document with inventory?) - provide description of materials, location, and check out instructions here 
+- [Inventory](https://docs.google.com/document/d/0B_omi4vXP064Rl9xTGV2a0xyYmowTnlPR1U4MWFSTXpYaFRv/edit?resourcekey=0-sEV7CbC4j-PaLg1kiyOKbA)
+- To reserve the MML outreach materials, check the [MML Outreach Calendar](https://calendar.google.com/calendar/u/0?cid=bm9hYS5nb3ZfdnY5cWFuZGppa2ozaDNnZWQ3MjFrbWdubmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to ensure there's not a conflict with another reservation, and then create an event to cover the days you'll need the equipment and inlcude the following in your event details: 
+- -- your name
+- -- name of the event you're attending
+- -- date, time, location of the event itself
+- -- reserve the days that you'll need to pickup and drop off supplies
+- 
+- Include descriptions of some PEP outreach projects and the acoustic slideshow
 
-Include descriptions of some PEP outreach projects and the acoustic slideshow
-Include link to presentation folder 
-
+Creative MMLites have created and built upon a number of powerpoint presentations over the years. Feel free to make use of and contribute to these [MML Outreach presentation materials](https://drive.google.com/drive/folders/1dRKkJzLLPw__Rq30W6CWsGiWX2OaXLEj).
 
 
 
 ### formating in qmd
 
-Italize: *asterisks*
-bold: _underscore_
-insert pictures: add pictures to the img folder then # ![](img/which_course.png)
+- Italize: *asterisks*
+or _underscore_
+- bold: **double asterisks**
+- insert pictures: add pictures to the img folder then # ![](img/which_course.png)
 
 
 
