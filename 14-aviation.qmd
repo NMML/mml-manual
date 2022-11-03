@@ -18,7 +18,7 @@ This section provides a centralized place for personnel to find information abou
 
 *Check-out procedures*
 
-To reserve aviation drysuits for a project, use the [Aviation Drysuit Schedule](https://docs.google.com/spreadsheets/d/1ai4B0oY7uNZ490zJEFgdh12kaRNWO80JBwicHcIDV_Y/edit#gid=0). Use the previous year's tab to see reservation conventions for various projects.
+To reserve aviation drysuits for a project, use the [Aviation Drysuit Schedule](https://docs.google.com/spreadsheets/d/1ai4B0oY7uNZ490zJEFgdh12kaRNWO80JBwicHcIDV_Y/edit#gid=272488510) to see which drysuits are available and hold them for specific dates. Use the previous year's tab to see reservation conventions for various projects.
 
 *Maintenance*
 
@@ -36,7 +36,7 @@ All participants in NOAA aerial surveys must complete the following:
 | Helicopter Emergency Egress Device (HEED)|   every 5 years    |                       | Can be combined with Aviation Egress.<br><br>Only need if carrying a HEED device. |
 | Aviation Safety & Cold Weather Survival  |   every 5 years    |     every 3 years     | Topics are covered in and combined with Aviation Egress. |
 | [Egress Videos](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/med_pilots/aircrew_videos/) |   annually         |     | 2.5 hours of material |
-| Online Commerce Learning Center [(CLC) Courses](https://doc.csod.com/catalog/CustomPage.aspx?id=20000416) |   annually    |                       | Recommended for contracted transport flights to/from remote field sites.<br><br>Courses include:<ul><li>NOAA Aviation Policy & Procedures</li><li>Basic Aviation Safety & Survival</li><li>Aviation Health</li><ul> |
+| Online Commerce Learning Center [(CLC) Courses](https://doc.csod.com/catalog/CustomPage.aspx?id=20000416) |   annually    |                       | Recommended for contracted transport flights to/from remote field sites.<br><br>The three aviation courses include: 1) NOAA Aviation Policy & Procedures, 2) Basic Aviation Safety & Survival, and 3) Aviation Health. |
  
 *MML Training Database*
 
