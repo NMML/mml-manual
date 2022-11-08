@@ -126,7 +126,8 @@ MML has 2 large walk-in freezers, 1 mini fridge, 1 commercial standing freezer, 
 | -20° (walk-in) | Shared | Bldg 32 | Diet and tissue samples, etc. |
 | Mini-fridge | Shared | Pelagic Lab | Sample controls |
 
-General reminders:
+Reminders:
+
 - Do not store samples in another program's freezer without their express permission.
 - Never put dry ice in the walk-in freezers - this is a suffocation hazard.
 - Be sure that freezer doors are firmly closed when you're done.
