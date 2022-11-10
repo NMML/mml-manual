@@ -4,26 +4,26 @@
 
 This section provides a centralized place for personnel to find information about aviation safety equipment that is shared among MML Programs. It includes information about aviation safety equipment inventory, usage, and maintenance, as well as, training requirements needed for field assignments that involve the use of aircraft.
 
-## List of Relevant Acronyms
-OMAO - Office of Marine and Aviation Operations
-AOC - Aircraft Operations Center
-PFD - personal floatation device
-HEED - helicopter emergency egress device (compressed air bottle)
-PLB - personal locator beacon
-ELT - emergency location transmitter
+## Relevant Acronyms
+- AOC - Aircraft Operations Center
+- ELT - emergency location transmitter
+- HEED - helicopter emergency egress device (compressed air bottle)
+- OMAO - Office of Marine and Aviation Operations
+- PFD - personal floatation device
+- PLB - personal locator beacon
+
+<br />
 
 ## Equipment
-When flying on aircraft owned and operated by NOAA's AOC, you will generally only need to supply your own aviation drysuit. The following safety gear is usually provided by AOC: immersion (gumby) suits, PFDs, HEEDs, and PLBs. Additionally, the aircraft is equipped with a liferaft, first aid kit, fire containment kit (for laptop fires, etc.), fire extinguishers, and ELTs. Check with your AOC Programs liaison to verify what equipment will be provided for your project.
+When flying on aircraft owned by NOAA's AOC, you will only need to supply your own aviation drysuit. The following safety gear is usually provided by AOC: immersion (gumby) suits, PFDs, HEEDs, and PLBs. Additionally, the aircraft is equipped with a liferaft, first aid kit, fire containment kit (for laptop fires, etc.), fire extinguishers, and ELTs. Check with your AOC Programs liaison to verify what equipment will be provided for your project.
 
 When flying on other aircraft, contact the vendor to verify what equipment they provide versus what equipment you need to supply yourself.
 
+<br />
+
 ### Aviation drysuits
 
-*Location*
-
 The Lab's aviation drysuits are currently located in the MML cage in Building 32. Contact your Program Leader for access to the cage.
-
-*Inventory*
 
 The aviation drysuits are inventoried in the AerialDrySuitDatabase.accdb on the LAN (/Programs_Share/NMML_Documents/Aviation_Equipment_\&\_Training/Aerial Dry Suits). Contact Christy Sims if you have updates for the database (christy.sims@noaa.gov).
 
@@ -42,14 +42,22 @@ The aviation drysuits are inventoried in the AerialDrySuitDatabase.accdb on the 
 3. Use talcum or baby powder around rubber seals to keep material pliable and reduce tearing.
 4. **Add washing procedures?**
 
+<br />
+
 ### Immersion (Gumby) Suits
+
+<br />
 
 ### PFDs and Accessories
 
+<br />
+
 ### HEEDs
 
+<br />
+
 ### Personal Locator Beacons (PLBs)
-Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping registration up-to-date, testing and replacing batteries, and following regular servicing schedules. Points of contact in each Program are below.
+Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping registration up-to-date, testing and replacing batteries, and following regular servicing schedules. Points of contact for PLB management in each Program are below.
 
 | Program | Contact | Email |
 | --- | --- | --- |
@@ -57,8 +65,12 @@ Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping
 | CAEP | | |
 | PEP | Heather Ziel | heather.ziel@noaa.gov |
 
+<br />
+
 ### Helmets
 When chartering helicopters, verify with the vendor or operator whether helmets are provided. When using fixed-wing aircraft, helmets are optional but may be used as an added safety precaution during takeoffs and landings. PEP has several helmets in its Program inventory. Contact John Jansen (john.jansen@noaa.gov) for more information.
+
+<br />
 
 ## Training
 
