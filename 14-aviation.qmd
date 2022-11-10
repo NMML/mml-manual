@@ -18,7 +18,9 @@ This section provides a centralized place for personnel to find information abou
 
 *Check-out procedures*
 
-To reserve aviation drysuits for a project, use the [Aviation Drysuit Schedule](https://docs.google.com/spreadsheets/d/1ai4B0oY7uNZ490zJEFgdh12kaRNWO80JBwicHcIDV_Y/edit#gid=272488510) to see which drysuits are available and hold them for specific dates. Use the previous year's tab to see reservation conventions for various projects.
+1. To reserve aviation drysuits for a project, use the [Aviation Drysuit Schedule](https://docs.google.com/spreadsheets/d/1ai4B0oY7uNZ490zJEFgdh12kaRNWO80JBwicHcIDV_Y/edit#gid=272488510) to see which drysuits are available and hold them for specific dates. Use the previous year's tab to see reservation conventions for various projects.
+
+2. Add info about contacting Christy or Millie, or add link to instructions on how to use database. 
 
 *Maintenance*
 
