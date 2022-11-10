@@ -4,25 +4,61 @@
 
 This section provides a centralized place for personnel to find information about aviation safety equipment that is shared among MML Programs. It includes information about aviation safety equipment inventory, usage, and maintenance, as well as, training requirements needed for field assignments that involve the use of aircraft.
 
+## List of Relevant Acronyms
+OMAO - Office of Marine and Aviation Operations
+AOC - Aircraft Operations Center
+PFD - personal floatation device
+HEED - helicopter emergency egress device (compressed air bottle)
+PLB - personal locator beacon
+ELT - emergency location transmitter
+
 ## Equipment
+When flying on aircraft owned and operated by NOAA's AOC, you will generally only need to supply your own aviation drysuit. The following safety gear is usually provided by AOC: immersion (gumby) suits, PFDs, HEEDs, and PLBs. Additionally, the aircraft is equipped with a liferaft, first aid kit, fire containment kit (for laptop fires, etc.), fire extinguishers, and ELTs. Check with your AOC Programs liaison to verify what equipment will be provided for your project.
+
+When flying on other aircraft, contact the vendor to verify what equipment they provide versus what equipment you need to supply yourself.
+
+### Aviation drysuits
+
+*Location*
+
+The Lab's aviation drysuits are currently located in the MML cage in Building 32. Contact your Program Leader for access to the cage.
 
 *Inventory*
 
-- Aviation drysuits
-- Immersion suits
-- PFDs
-- HEEDs
-- PLBs
-- PFD Assessories
-- Helmets
+The aviation drysuits are inventoried in the AerialDrySuitDatabase.accdb on the LAN (/Programs_Share/NMML_Documents/Aviation_Equipment_\&\_Training/Aerial Dry Suits). Contact Christy Sims if you have updates for the database (christy.sims@noaa.gov).
 
 *Check-out procedures*
 
 1. To reserve aviation drysuits for a project, use the [Aviation Drysuit Schedule](https://docs.google.com/spreadsheets/d/1ai4B0oY7uNZ490zJEFgdh12kaRNWO80JBwicHcIDV_Y/edit#gid=272488510) to see which drysuits are available and hold them for specific dates. Use the previous year's tab to see reservation conventions for various projects.
 
-2. Add info about contacting Christy or Millie, or add link to instructions on how to use database. 
+2. Contact Christy Sims with your reservation request. She will make the appropriate updates to the database. During check-out and check-in, visually inspect each suit for the following: condition of rubber neck seal, condition of rubber wrist seals, condition of foot seams, fleece liner present, hood present, gloves present, and neck ring present.
+
+3. Keep track of the number of days each suit is worn during your project as well as any issues or repairs needed. Provide this information when you return your suit. This information is tracked to determine maintenance needs.  
 
 *Maintenance*
+
+1. Aviation drysuits are expensive; please handle with care.
+2. Regularly wax zippers.
+3. Use talcum or baby powder around rubber seals to keep material pliable and reduce tearing.
+4. **Add washing procedures?**
+
+### Immersion (Gumby) Suits
+
+### PFDs and Accessories
+
+### HEEDs
+
+### Personal Locator Beacons (PLBs)
+Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping registration up-to-date, testing and replacing batteries, and following regular servicing schedules. Points of contact in each Program are below.
+
+| Program | Contact | Email |
+| --- | --- | --- |
+| AEP | Katie Luxa | katie.luxa@noaa.gov |
+| CAEP | | |
+| PEP | Heather Ziel | heather.ziel@noaa.gov |
+
+### Helmets
+When chartering helicopters, verify with the vendor or operator whether helmets are provided. When using fixed-wing aircraft, helmets are optional but may be used as an added safety precaution during takeoffs and landings. PEP has several helmets in its Program inventory. Contact John Jansen (john.jansen@noaa.gov) for more information.
 
 ## Training
 
