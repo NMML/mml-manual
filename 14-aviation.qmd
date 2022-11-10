@@ -74,6 +74,10 @@ When chartering helicopters, verify with the vendor or operator whether helmets 
 
 ## Training
 
+{{< video https://www.youtube.com/watch?v=gATvx8dGkho>}}
+
+<br />
+
 NOAA's Office of Marine and Aviation Operations (OMAO) governs the [Aviation Safety Program](https://www.omao.noaa.gov/learn/aircraft-operations/about/aviation-safety-program) which provides policy and guidance to support the safe operation and use of aircraft.
 
 An overview of all safety-related training that is required or recommended for MML staff and affiliates is detailed in the [MML Safety Training Memo](https://drive.google.com/file/d/1WXErW4sDpQLKOvnVK2PsioK_uas_LvXf/view?usp=sharing). Training specific to aerial surveys is outlined in bullet 4 of the memo and included below.
@@ -87,7 +91,9 @@ All participants in NOAA aerial surveys must complete the following:
 | Aviation Safety & Cold Weather Survival  |   every 5 years    |     every 3 years     | Topics are covered in and combined with Aviation Egress. |
 | [Egress Videos](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/med_pilots/aircrew_videos/) |   annually         |     | 2.5 hours of material |
 | Online Commerce Learning Center [(CLC) Courses](https://doc.csod.com/catalog/CustomPage.aspx?id=20000416) |   annually    |                       | Recommended for contracted transport flights to/from remote field sites.<br><br>The three aviation courses include: 1) NOAA Aviation Policy & Procedures, 2) Basic Aviation Safety & Survival, and 3) Aviation Health. |
- 
+
+<br />
+
 *MML Training Database*
 
 The lab keeps track of fieldwork training completed by all personnel in a [MML Training Database](https://docs.google.com/spreadsheets/d/1gZfKhD85VjolvN2jiEc1u4dXaJbkZZTVuVN5v-qZZbk/edit#gid=1613635922). The database is organized by Program and maintained by the MML Operations team. To update your information, email a copy of your training certificate to Jim Freed (james.freed@noaa.gov). 
