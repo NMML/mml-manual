@@ -4,7 +4,7 @@
 
 Everybody will at some point leave MML. Having a clear offboarding process ensures there are no loose ends when someone leaves the lab, that others who might carry on work being done can do so most easily, and provides an opportunity to clarify any remaining steps (e.g. publication, data archiving, future collaborations).  
 
-(with thanks to the [Pinsky lab](https://github.com/pinskylab) & [Bahlai lab](https://github.com/BahlaiLab))!
+(with thanks to the [Pinsky lab](https://github.com/pinskylab) & [Bahlai lab](https://github.com/BahlaiLab)!)
 
 ## Exit Interview
 
