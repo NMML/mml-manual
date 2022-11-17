@@ -1,0 +1,39 @@
+# MML, AFSC, and NOAA Resources
+
+## Public websites
+
+The [NOAA Western Regional Center](https://www.wrc.noaa.gov/) site has links to information about campus facility, security, and IT services, as well as a list of NOAA offices (e.g., Pacific Marine Evironmental Laboratory [PMEL]) present at WRC.
+
+The [Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/region/alaska/) website has information about AFSC Divisions, surveys, species, etc., plus tons of links to other resources, such as AFSC Publications. 
+
+NOAA Fisheries' [Marine Mammal Laboratory](https://www.fisheries.noaa.gov/about/marine-mammal-laboratory/) site has great general information about the work that we do.
+
+The [NOAA Staff Directory](https://nsd.rdc.noaa.gov/) is a quick way to look up someone's email, phone number, and line office. Staff can log in to the site to also view organization, position title, and employee type. 
+
+## Internal sites
+
+The [AFSC Intranet](https://sites.google.com/noaa.gov/myafsc) is your go-to resource for announcements and events, AFSC policies and procedures, safety, funding, etc.
+
+[Inside Fisheries](https://sites.google.com/noaa.gov/inside-fisheries/)
+
+### HR and employment sites
+
+TBD
+
+### Diversity, equity, and inclusion
+
+- AFSC [Team for Inclusion, Diversity & Equity (TIDE)](https://sites.google.com/noaa.gov/myafsc/home/diversity-inclusion)
+- [We Are NOAA](https://sites.google.com/noaa.gov/we-are-noaa/) Campaign
+- [NOAA Pride](https://sites.google.com/a/noaa.gov/noaa-pride/) Employee Resource Group
+
+### Awards and recognition
+
+- AFSC [#SONAR (Shout-Outs, Namechecks, and Raves)](https://sites.google.com/noaa.gov/myafsc/home/diversity-inclusion/afsc-sonar-shout-outs-namechecks-and-raves/)
+- AFSC [Staff Member of the Quarter](https://sites.google.com/noaa.gov/myafsc/home/workforce-collaboration-team-wct/staff-members-of-the-quarter) and [Letters of Recognition](https://docs.google.com/forms/d/e/1FAIpQLSdznp_mJdjp2bD4RKX6a73yHId7tyyOtbLIr8EQ8fXKmMnbrw/viewform/) 
+
+### Staff wellness
+
+- [NOAA Fisheries Wellness Corner](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/noaa-fisheries-wellness-corner/)
+- [Mindful NOAA](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/noaa-fisheries-wellness-corner/mindful-noaa/)
+
+## Data Repositories?
