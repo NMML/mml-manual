@@ -43,12 +43,7 @@ Feel free to contact [Erin Moreland](erin.moreland@noaa.gov) or [Michelle Lander
 
 ## [**Record your outreach event here!**](https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/outreach-participation) Thank you! 
 
-### formating in qmd
 
-- Italize: *asterisks*
-or _underscore_
-- bold: **double asterisks**
-- insert pictures: add pictures to the img folder then # ![](img/which_course.png)
 
 
 
