@@ -19,21 +19,13 @@ book:
 
   chapters: 
     - index.qmd
-    - 01-intro-how-we-work.qmd
-    - 02-lab-culture-philosophy.qmd
-    - 03-code-of-conduct.qmd
-    - 04-onboarding.qmd
-    - 05-expectations.qmd
-    - 06-offboarding.qmd
-    - 07-funding.qmd
-    - 08-communication.qmd
-    - 09-academics.qmd
-    - 10-outreach.qmd
-    - 11-computing.qmd
-    - 12-other-resources.qmd
-    - 13-safety.qmd
-    - 14-aviation.qmd
-#    - 14-other-faylab-resources.qmd  
+    - 01-code-of-conduct.qmd
+    - 02-onboarding.qmd
+    - 03-offboarding.qmd
+    - 04-outreach.qmd
+    - 05-safety.qmd
+    - 06-other-resources.qmd
+#    - 14-aviation.qmd
 
 
 # not sure what the following line does; those files are present
