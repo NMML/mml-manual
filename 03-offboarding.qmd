@@ -21,7 +21,7 @@ Each project should have an easily found README text file that provides informat
 
 Ensure that publications and presentations from your projects are archived in the appropriate folder on the lab Google Drive.  
 
-## Data
+## Archiving Data [update with new info from Sonja]
 
 Data used in support of your projects should be:
 
@@ -42,12 +42,12 @@ Science is not finished until it has been communicated. Hopefully, you will publ
 
 ## Turning in equipment
 
-Ensure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with Ashleigh. Make sure any problems with equipment are documented and that Gavin and Ashleigh have been made aware of them.  
+Ensure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with the MML Property Manager. Make sure any problems with equipment are documented and that the MML Property Manager and Program Lead have been made aware of them.  
 
-## Lab library
+## MML library
 
-Return all books checked out from the lab library.  
+Return all books and reprints checked out from the MML library.  
 
-## Removing key card access
+## Removing key card and email access [also include a section on returning government passports]
 
-Key card access to the SMAST facilities will be terminated at the end of your contract. During your exit interview, discuss with Gavin whether modifications need to be made to this timeline.  
+Key card access to WRC facilities will be terminated [find out if this is the last day onsite]. If an extension is required for email access, discuss process for continuing to access email and google drive with Program Lead and OFIS.  
