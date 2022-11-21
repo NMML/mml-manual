@@ -77,11 +77,11 @@
     "text": "4.3 Publications and Presentations\nEnsure that publications and presentations from your projects are archived in the appropriate folder on the lab Google Drive."
   },
   {
-    "objectID": "03-offboarding.html#data",
-    "href": "03-offboarding.html#data",
+    "objectID": "03-offboarding.html#archiving-data-update-with-new-info-from-sonja",
+    "href": "03-offboarding.html#archiving-data-update-with-new-info-from-sonja",
     "title": "4  Offboarding",
-    "section": "4.4 Data",
-    "text": "4.4 Data\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nEither in a public archive (e.g., the github repo or another public archive), or if data is proprietary, a ‘snapshot’ version of the data used in the project should be saved in a private repository accessible to lab members. Alternatively, data could be saved on the lab_fay server drive with appropriate documentation.\nLinked and briefly described in the project README."
+    "section": "4.4 Archiving Data [update with new info from Sonja]",
+    "text": "4.4 Archiving Data [update with new info from Sonja]\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nEither in a public archive (e.g., the github repo or another public archive), or if data is proprietary, a ‘snapshot’ version of the data used in the project should be saved in a private repository accessible to lab members. Alternatively, data could be saved on the lab_fay server drive with appropriate documentation.\nLinked and briefly described in the project README."
   },
   {
     "objectID": "03-offboarding.html#code",
@@ -102,21 +102,21 @@
     "href": "03-offboarding.html#turning-in-equipment",
     "title": "4  Offboarding",
     "section": "4.7 Turning in equipment",
-    "text": "4.7 Turning in equipment\nEnsure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with Ashleigh. Make sure any problems with equipment are documented and that Gavin and Ashleigh have been made aware of them."
+    "text": "4.7 Turning in equipment\nEnsure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with the MML Property Manager. Make sure any problems with equipment are documented and that the MML Property Manager and Program Lead have been made aware of them."
   },
   {
-    "objectID": "03-offboarding.html#lab-library",
-    "href": "03-offboarding.html#lab-library",
+    "objectID": "03-offboarding.html#mml-library",
+    "href": "03-offboarding.html#mml-library",
     "title": "4  Offboarding",
-    "section": "4.8 Lab library",
-    "text": "4.8 Lab library\nReturn all books checked out from the lab library."
+    "section": "4.8 MML library",
+    "text": "4.8 MML library\nReturn all books and reprints checked out from the MML library."
   },
   {
-    "objectID": "03-offboarding.html#removing-key-card-access",
-    "href": "03-offboarding.html#removing-key-card-access",
+    "objectID": "03-offboarding.html#removing-key-card-and-email-access-also-include-a-section-on-returning-government-passports",
+    "href": "03-offboarding.html#removing-key-card-and-email-access-also-include-a-section-on-returning-government-passports",
     "title": "4  Offboarding",
-    "section": "4.9 Removing key card access",
-    "text": "4.9 Removing key card access\nKey card access to the SMAST facilities will be terminated at the end of your contract. During your exit interview, discuss with Gavin whether modifications need to be made to this timeline."
+    "section": "4.9 Removing key card and email access [also include a section on returning government passports]",
+    "text": "4.9 Removing key card and email access [also include a section on returning government passports]\nKey card access to WRC facilities will be terminated [find out if this is the last day onsite]. If an extension is required for email access, discuss process for continuing to access email and google drive with Program Lead and OFIS."
   },
   {
     "objectID": "04-outreach.html#outreach-ideas",
