@@ -180,11 +180,36 @@ At this time, there is not a chemical fume hood available in the Shared Labs. Op
 
 ## Field Safety
 
-### Aviation Safety Equipment & Training
+### MML Training Database
+
+The lab keeps track of fieldwork training completed by all personnel in a [MML Training Database](https://docs.google.com/spreadsheets/d/1gZfKhD85VjolvN2jiEc1u4dXaJbkZZTVuVN5v-qZZbk/edit#gid=1613635922). The database is organized by Program and maintained by the MML Operations team. To update your information, email a copy of your training certificate to Jim Freed (james.freed@noaa.gov). 
+
+#### Aviation Safety
+{{< video https://www.youtube.com/watch?v=gATvx8dGkho>}}
+
+<br />
+
+NOAA's Office of Marine and Aviation Operations (OMAO) governs the [Aviation Safety Program](https://www.omao.noaa.gov/learn/aircraft-operations/about/aviation-safety-program) which provides policy and guidance to support the safe operation and use of aircraft.
+
+An overview of all safety-related training that is required or recommended for MML staff and affiliates is detailed in the [MML Safety Training Memo](https://drive.google.com/file/d/1WXErW4sDpQLKOvnVK2PsioK_uas_LvXf/view?usp=sharing). Training specific to aerial surveys is outlined in bullet 4 of the memo and included below.
+
+All participants in NOAA aerial surveys must complete the following:
+
+| Training                                 | Required Frequency | Recommended Frequency | Notes                                               |
+|:---------------------------------------- |:------------------:|:---------------------:|:----------------------------------------------------| 
+| Aviation Egress                          |   every 5 years    |     every 3 years     |                                                     |
+| Helicopter Emergency Egress Device (HEED)|   every 5 years    |                       | Can be combined with Aviation Egress.<br><br>Only need if carrying a HEED device. |
+| Aviation Safety & Cold Weather Survival  |   every 5 years    |     every 3 years     | Topics are covered in and combined with Aviation Egress. |
+| [Egress Videos](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/med_pilots/aircrew_videos/) |   annually         |     | 2.5 hours of material |
+| Online Commerce Learning Center [(CLC) Courses](https://doc.csod.com/catalog/CustomPage.aspx?id=20000416) |   annually    |                       | Recommended for contracted transport flights to/from remote field sites.<br><br>The three aviation courses include: 1) NOAA Aviation Policy & Procedures, 2) Basic Aviation Safety & Survival, and 3) Aviation Health. |
+
+<br />
+
+### Aviation Safety Equipment
 
 ![](img/N56RF.jpg)
 
-This section provides a centralized place for personnel to find information about aviation safety equipment that is shared among MML Programs. It includes information about aviation safety equipment inventory, usage, and maintenance, as well as, training requirements needed for field assignments that involve the use of aircraft.
+This section provides a centralized place for personnel to find information about aviation safety equipment that is shared among MML Programs. It includes information about aviation safety equipment inventory, usage, and maintenance.
 
 #### Relevant Acronyms
 - AOC - Aircraft Operations Center
@@ -253,32 +278,6 @@ Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping
 When chartering helicopters, verify with the vendor or operator whether helmets are provided. When using fixed-wing aircraft, helmets are optional but may be used as an added safety precaution during takeoffs and landings. PEP has several helmets in its Program inventory. Contact John Jansen (john.jansen@noaa.gov) for more information.
 
 <br />
-
-#### Training
-
-{{< video https://www.youtube.com/watch?v=gATvx8dGkho>}}
-
-<br />
-
-NOAA's Office of Marine and Aviation Operations (OMAO) governs the [Aviation Safety Program](https://www.omao.noaa.gov/learn/aircraft-operations/about/aviation-safety-program) which provides policy and guidance to support the safe operation and use of aircraft.
-
-An overview of all safety-related training that is required or recommended for MML staff and affiliates is detailed in the [MML Safety Training Memo](https://drive.google.com/file/d/1WXErW4sDpQLKOvnVK2PsioK_uas_LvXf/view?usp=sharing). Training specific to aerial surveys is outlined in bullet 4 of the memo and included below.
-
-All participants in NOAA aerial surveys must complete the following:
-
-| Training                                 | Required Frequency | Recommended Frequency | Notes                                               |
-|:---------------------------------------- |:------------------:|:---------------------:|:----------------------------------------------------| 
-| Aviation Egress                          |   every 5 years    |     every 3 years     |                                                     |
-| Helicopter Emergency Egress Device (HEED)|   every 5 years    |                       | Can be combined with Aviation Egress.<br><br>Only need if carrying a HEED device. |
-| Aviation Safety & Cold Weather Survival  |   every 5 years    |     every 3 years     | Topics are covered in and combined with Aviation Egress. |
-| [Egress Videos](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/med_pilots/aircrew_videos/) |   annually         |     | 2.5 hours of material |
-| Online Commerce Learning Center [(CLC) Courses](https://doc.csod.com/catalog/CustomPage.aspx?id=20000416) |   annually    |                       | Recommended for contracted transport flights to/from remote field sites.<br><br>The three aviation courses include: 1) NOAA Aviation Policy & Procedures, 2) Basic Aviation Safety & Survival, and 3) Aviation Health. |
-
-<br />
-
-*MML Training Database*
-
-The lab keeps track of fieldwork training completed by all personnel in a [MML Training Database](https://docs.google.com/spreadsheets/d/1gZfKhD85VjolvN2jiEc1u4dXaJbkZZTVuVN5v-qZZbk/edit#gid=1613635922). The database is organized by Program and maintained by the MML Operations team. To update your information, email a copy of your training certificate to Jim Freed (james.freed@noaa.gov). 
 
 ### Boating Safety Equipment & Training 
 ### Any other field safety topics...
