@@ -1,21 +1,21 @@
-# Offboarding {#offboarding}
+# Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]
 
 ![](img/adventure.jpg)
 
 Everybody will at some point leave MML. Having a clear offboarding process ensures there are no loose ends when someone leaves the lab, that others who might carry on work being done can do so most easily, and provides an opportunity to clarify any remaining steps (e.g. publication, data archiving, future collaborations).  
 
-(with thanks to the [Pinsky lab](https://github.com/pinskylab) & [Bahlai lab](https://github.com/BahlaiLab)!) [is this still needed?]
 
-## Exit Interview [need to update this section]
 
-Set up a dedicated time to meet with Gavin and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future. 
-[Checklist for students, staff, and post docs](https://docs.google.com/document/d/1Z0Czwr3lRPGCgA-OP2WLGpWizJvsIUZ7_NOgVI4AfnQ/edit?usp=sharing)
+## Offboarding Checklist
 
-## Project Documentation 
+Refer to this checklist for separation protocols in areas such as scientific samples, chemicals, project planning database, field gear, manuscripts, paper/electronic reports, and google accounts. 
+[Checklist for AFSC Federal staff](https://drive.google.com/file/d/17hBFFWaAImoVNqHfPJmoAKqGqs8rD1Q2/view)
 
-Project work should be hosted either in a github repository linked to from the faylab account, or saved on the lab_fay server drive (prefereably both).  
+## Email Access 
 
-Each project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work.  
+IT email guidance, in compliance with federal regulations, is to disable email accounts within one business day after clearance (departure/retirement). Once the email account is disabled, it no longer works and anyone who sends a message to it will get a failure notice saying the email account doesn’t exist. Exceptions have been made to extend this deadline if necessary, work with your Program Lead or Lab Director and IT.  
+
+If you wish to let people know you’re leaving, set up an auto-responder message 30 days before your departure date with information such as a new email address. You can also put information in your signature block.  
 
 ## Publications and Presentations
 
