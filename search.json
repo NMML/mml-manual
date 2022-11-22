@@ -56,65 +56,65 @@
     "text": "3.4 Facilities\n\n3.4.1 Office space\n\n\n3.4.2 Key card building & room access\n\n\n3.4.3 Parking and transportation"
   },
   {
-    "objectID": "03-offboarding.html#exit-interview-need-to-update-this-section",
-    "href": "03-offboarding.html#exit-interview-need-to-update-this-section",
-    "title": "4  Offboarding",
-    "section": "4.1 Exit Interview [need to update this section]",
-    "text": "4.1 Exit Interview [need to update this section]\nSet up a dedicated time to meet with Gavin and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future. Checklist for students, staff, and post docs"
+    "objectID": "03-offboarding.html#offboarding-checklist",
+    "href": "03-offboarding.html#offboarding-checklist",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
+    "section": "4.1 Offboarding Checklist",
+    "text": "4.1 Offboarding Checklist\nRefer to this checklist for separation protocols in areas such as scientific samples, chemicals, project planning database, field gear, manuscripts, paper/electronic reports, and google accounts. Checklist for AFSC Federal staff"
   },
   {
-    "objectID": "03-offboarding.html#project-documentation",
-    "href": "03-offboarding.html#project-documentation",
-    "title": "4  Offboarding",
-    "section": "4.2 Project Documentation",
-    "text": "4.2 Project Documentation\nProject work should be hosted either in a github repository linked to from the faylab account, or saved on the lab_fay server drive (prefereably both).\nEach project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work."
+    "objectID": "03-offboarding.html#email-access",
+    "href": "03-offboarding.html#email-access",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
+    "section": "4.2 Email Access",
+    "text": "4.2 Email Access\nIT email guidance, in compliance with federal regulations, is to disable email accounts within one business day after clearance (departure/retirement). Once the email account is disabled, it no longer works and anyone who sends a message to it will get a failure notice saying the email account doesn’t exist. Exceptions have been made to extend this deadline if necessary, work with your Program Lead or Lab Director and IT.\nIf you wish to let people know you’re leaving, set up an auto-responder message 30 days before your departure date with information such as a new email address. You can also put information in your signature block."
   },
   {
     "objectID": "03-offboarding.html#publications-and-presentations",
     "href": "03-offboarding.html#publications-and-presentations",
-    "title": "4  Offboarding",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
     "section": "4.3 Publications and Presentations",
     "text": "4.3 Publications and Presentations\nEnsure that publications and presentations from your projects are archived in the appropriate folder on the lab Google Drive."
   },
   {
     "objectID": "03-offboarding.html#archiving-data-update-with-new-info-from-sonja",
     "href": "03-offboarding.html#archiving-data-update-with-new-info-from-sonja",
-    "title": "4  Offboarding",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
     "section": "4.4 Archiving Data [update with new info from Sonja]",
     "text": "4.4 Archiving Data [update with new info from Sonja]\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nEither in a public archive (e.g., the github repo or another public archive), or if data is proprietary, a ‘snapshot’ version of the data used in the project should be saved in a private repository accessible to lab members. Alternatively, data could be saved on the lab_fay server drive with appropriate documentation.\nLinked and briefly described in the project README."
   },
   {
     "objectID": "03-offboarding.html#code",
     "href": "03-offboarding.html#code",
-    "title": "4  Offboarding",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
     "section": "4.5 Code",
     "text": "4.5 Code\nCode used or developed for the project should be:\n\ncomplete and well-documented, including information in a README about what each file does and workflow to run the code\nSaved on the lab_fay section of the storage server, and also preferably available on github in a public repository."
   },
   {
     "objectID": "03-offboarding.html#timelines-for-publications",
     "href": "03-offboarding.html#timelines-for-publications",
-    "title": "4  Offboarding",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
     "section": "4.6 Timelines for publications",
     "text": "4.6 Timelines for publications\nScience is not finished until it has been communicated. Hopefully, you will publish your results in the peer-reviewed literature so that others can learn and build from your work. During your exit interview, make a plan with Gavin for remaining publications, including a timeline for submission."
   },
   {
     "objectID": "03-offboarding.html#turning-in-equipment",
     "href": "03-offboarding.html#turning-in-equipment",
-    "title": "4  Offboarding",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
     "section": "4.7 Turning in equipment",
     "text": "4.7 Turning in equipment\nEnsure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with the MML Property Manager. Make sure any problems with equipment are documented and that the MML Property Manager and Program Lead have been made aware of them."
   },
   {
     "objectID": "03-offboarding.html#mml-library",
     "href": "03-offboarding.html#mml-library",
-    "title": "4  Offboarding",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
     "section": "4.8 MML library",
     "text": "4.8 MML library\nReturn all books and reprints checked out from the MML library."
   },
   {
     "objectID": "03-offboarding.html#removing-key-card-and-email-access-also-include-a-section-on-returning-government-passports",
     "href": "03-offboarding.html#removing-key-card-and-email-access-also-include-a-section-on-returning-government-passports",
-    "title": "4  Offboarding",
+    "title": "4  Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]",
     "section": "4.9 Removing key card and email access [also include a section on returning government passports]",
     "text": "4.9 Removing key card and email access [also include a section on returning government passports]\nKey card access to WRC facilities will be terminated [find out if this is the last day onsite]. If an extension is required for email access, discuss process for continuing to access email and google drive with Program Lead and OFIS."
   },
