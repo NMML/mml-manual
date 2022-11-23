@@ -1,6 +1,6 @@
 # Offboarding {#offboarding} 
 
-![](IMG/so_long.jpg)
+![](img/so_long.jpg)
 
 Everybody will at some point leave MML. Having a clear offboarding process ensures there are no loose ends when someone leaves the lab, that others who might carry on work being done can do so most easily, and provides an opportunity to clarify any remaining steps (e.g. publication, data archiving, future collaborations).  
 
