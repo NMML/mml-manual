@@ -42,8 +42,10 @@ _links for CAC_[CAC](
 
 ### Parking and transportation 
 
-## How to Host and Intern or Volunteer -not sure if this should go here or in a different chapter maybe outreach?-
+## How to Host an Intern or Volunteer 
 
-[Hosting an Intern](https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/host-an-intern)
+_not sure if this should go here or in a different chapter, maybe outreach?_
 
-[Volunteers](https://sites.google.com/noaa.gov/myafsc/administrative/volunteers)
+Guidance and links for hosting an Intern can be found [here](https://sites.google.com/noaa.gov/myafsc/communications/outreach-and-education/host-an-intern).
+
+Guidance and links for hosting a Student Volunteer and a Non-Student Volunteer/Guest Worker can be found [here](https://sites.google.com/noaa.gov/myafsc/administrative/volunteers).
