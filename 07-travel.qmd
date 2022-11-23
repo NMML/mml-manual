@@ -1,0 +1,59 @@
+# Travel
+
+The latest information on [travel policies](https://sites.google.com/noaa.gov/myafsc/administrative/travel) and [COVID-19](https://sites.google.com/noaa.gov/myafsc/covid-19) can be found on the AFSC intranet. 
+
+MML's primary Travel Arranger is Tammy Ahlers, with AJ Renney as backup. For all travel-related communications, please be sure to use the MML Travel group email address. 
+
+Note: These instructions apply primarily to Federal employees. Affiliate staff should contact their employer for specific travel instructions. 
+
+## First steps
+
+* Complete travel training in CLC
+* Set up account in E2
+* Determine if you need a government travel card
+* ...
+
+## Travel Requests - Domestic
+
+In October 2022, AFSC launched the [Travel Request App](https://script.google.com/a/macros/noaa.gov/s/AKfycbwdQxgdDdWfoH_4bBK9xMfShQaqMPNogkTZx-VgC6tTx3aUMDogSxwEGWHWnAcZMSv4/exec).  
+
+In addition to your travel request, you will also need to fill out the following forms, where applicable:
+
+- MML [Need for a COVID-19 Return to Onsite Work (RTOW) Package](https://drive.google.com/file/d/1HUTkU0xsghZ6AWgv8T3aF2r-vpI228ZD/view?usp=share_link)
+- AFSC [Compensatory Time Off for Travel - Air](https://drive.google.com/file/d/0B0F7lrCfNBC1T21FVTBlRHplMmdaNDlRd1B5cmh0dmpST3Fr/view?resourcekey=0-Le96mgNIArHZZMX12w8MMg)
+- AFSC [Compensatory Time Off for Travel - Ground](https://drive.google.com/file/d/0B0F7lrCfNBC1cFJYX2R6dGJmODI4WWh2NVhWQ1VqRlpyUkpr/view?resourcekey=0-2J1t7Lua3_pRimSfBEcWxg)
+- DOC [Form CD-81 Authorization for Paid Overtime and/or Holiday Work, and for Compensatory Overtime](https://drive.google.com/file/d/1CMZNBhW8dGxtPmhE3rrEvNm7VyZgz8oW/view)
+- webTA Compensatory Time
+
+We have prepared this document(TBD link to a Google doc) to help you through the process.
+
+### Travel Requests - Foreign
+
+- Forms
+- Passports
+- Laptops
+
+### Invitational or Gift Travel
+
+### Last Steps Before You Go...
+
+- If you are normally on an alternative work schedule, tell Tammy to switch you over to a straight 8s schedule for your time on travel.
+- Make sure you and/or your field party chief have: 
+  -  Your travel authorization
+  -  Reservation details
+  -  Government ID
+  -  Government travel card (if applicable)
+  -  MML emergency contact instructions
+  -  Marine mammal permit
+- If you are traveling internationally: 
+  - Government passport
+- What else?
+
+### Travel Reimbursement (when you return)
+
+### FAQs
+
+- What do I do if I need to change my flight reservations?
+- What do I do if my flight is canceled?
+- What if I go over my requested amount of overtime and/or comp time?
+(These can all link to the same Google doc...)
