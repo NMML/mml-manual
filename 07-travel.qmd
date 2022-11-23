@@ -27,15 +27,15 @@ In addition to your travel request, you will need to complete the following, whe
 
 We have prepared this document(TBD link to a Google doc) to help you through the process.
 
-### Travel Requests - Foreign
+## Travel Requests - Foreign
 
 - Forms
 - Passports
 - Laptops
 
-### Invitational or Gift Travel
+## Invitational or Gift Travel
 
-### Last Steps Before You Go...
+## Last Steps Before You Go...
 
 - If you are normally on an alternative work schedule, tell Tammy to switch you over to a straight 8s schedule for your time on travel.
 - Make sure you and/or your field party chief have: 
@@ -49,9 +49,9 @@ We have prepared this document(TBD link to a Google doc) to help you through the
   - Government passport
 - What else?
 
-### Travel Reimbursement (when you return)
+## Travel Reimbursement (when you return)
 
-### FAQs
+## FAQs
 
 - How do I know if I qualify for Hazard Pay?
 - What do I do if I need to change my flight reservations?
