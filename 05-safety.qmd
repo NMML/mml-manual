@@ -105,7 +105,7 @@ The Shared Labs Manager is responsible for reviewing the MML chemical inventory 
 
 Each January, AFSC must report totals of ethanol, formaldehyde, and sulfuric acid to the State. This report includes *chemical products as well as specimens stored in chemicals*. In Nov-Dec, the Shared Labs Manager will reach out to programs about inventory these resources, and compile a summary report for AFSC SECO. 
 
-* *Formalin Reporting* *
+*Formalin Reporting*
 
 We are also required to report all new purchases of formalin or formaldehyde to AFSC SECO. Please notify the Shared Labs Manager if you buy these chemicals. 
 
