@@ -1,4 +1,4 @@
-# Offboarding {#offboarding} [update with new image - So long and thanks for all the fish]
+# Offboarding {#offboarding} 
 
 ![](img/adventure.jpg)
 
@@ -17,28 +17,28 @@ IT email guidance, in compliance with federal regulations, is to disable email a
 
 If you wish to let people know you’re leaving, set up an auto-responder message 30 days before your departure date with information such as a new email address. You can also put information in your signature block.  
 
-## Publications and Presentations
+## Enterprise Services Portal
 
-Ensure that publications and presentations from your projects are archived in the appropriate folder on the lab Google Drive.  
+Access to the ES Portal is deprovisioned during your Offboarding process, on or before your separation date. [ES Portal login](https://enterpriseservices.servicenowservices.com/esc?id=kb_article_view&sysparm_article=KB0012529) 
 
-## Archiving Data [update with new info from Sonja]
+## Electronic Personnel Folder (eOPF)
 
-Data used in support of your projects should be:
+If you are transferring to another Federal agency that uses eOPF functionality, your eOPF will automatically transfer with you to that agency. For all other employees separating from the Department of Commerce, access to your eOPF is deprovisioned on or before your separation date. 
 
-* Saved in appropriate, non-proprietary format with accompanying metadata
-* Either in a public archive (e.g., the github repo or another public archive), or if data is proprietary, a 'snapshot' version of the data used in the project should be saved in a private repository accessible to lab members. Alternatively, data could be saved on the lab_fay server drive with appropriate documentation. 
-* Linked and briefly described in the project README.  
+Before you separate, it is recommended that you make copies of your eOPF documents prior to your separation date and if you are retiring, arrange with your retirement specialist to send copies of any documents filed in your eOPF after your separation to your current mailing address.  
 
-## Code
+(note to check about the new Login.gov access versus using CAC/PIV)
 
-Code used or developed for the project should be:
+## Employee Personal Page (EPP)
 
-* complete and well-documented, including information in a README about what each file does and workflow to run the code
-* Saved on the lab_fay section of the storage server, and also preferably available on github in a public repository.  
+You will still be able to access your EPP after you leave the Department of Commerce and/or the Federal government for 90 days after separation. Prior to separating, make sure to add or update your personal email address to your EPP which will be used to send you notifications for forgotten user IDs, temporary passwords, and other notices. 
+
+You can change your email addresses in EPP by selecting ‘Preferences’ from the EPP main menu and then selecting ‘Change E-mail Addresses.’  
  
-## Timelines for publications
+ 
+## WebTA
 
-Science is not finished until it has been communicated. Hopefully, you will publish your results in the peer-reviewed literature so that others can learn and build from your work. During your exit interview, make a plan with Gavin for remaining publications, including a timeline for submission.   
+Access to your webTA profile will be deprovisioned after your webTA timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
 
 ## Turning in equipment
 
@@ -48,6 +48,18 @@ Ensure any lab equipment (e.g. computer and peripherals) you have been using has
 
 Return all books and reprints checked out from the MML library.  
 
-## Removing key card and email access [also include a section on returning government passports]
+## Returning key card and office keys
 
-Key card access to WRC facilities will be terminated [find out if this is the last day onsite]. If an extension is required for email access, discuss process for continuing to access email and google drive with Program Lead and OFIS.  
+Key card access to WRC facilities will be terminated [find out if this is the last day onsite]. Office keys should be returned to MML Admin staff. 
+
+## Retirement Info
+
+The first step is to check with a Retirement Counseling Specialist as soon as possible.  Sylvia.Hogan@noaa.gov is dedicated exclusively to providing services to Fisheries employees. In addition to benefits counseling, Sylvia will be responsible for providing detailed, individual retirement estimates and counseling and will work hand-in-hand with you to navigate through the retirement application process and to assist with questions and inquiries. 
+
+Please complete a [Request for Information form](https://drive.google.com/file/d/1ZRuiwZExNU4wNdElZ8-UdDuQbcNv5htQ/view) and return to OHCS.Retirements@noaa.gov to start the process.
+
+Once you have a date selected and Retirement Specialist assigned, please make sure to submit your completed retirement package 6 to 8 weeks before your planned retirement date.
+
+In addition to the process above, please contact the MML Admin once you have decided on a date. They will initiate your SF52, CD-126, CD-527, and your CD-529.
+
+Other helpful links [Are You Ready to Retire Factsheet](https://drive.google.com/file/d/19qhKweyxDZLqp2rLjzVtlpsRvVjc8KyI/view) and [Your Plan for Retirement Decision Points](https://drive.google.com/file/d/1DH1c79OxQdlf-SfBpwSNAsLHbtTd9Ema/view)
