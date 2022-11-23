@@ -1,5 +1,7 @@
 # Onboarding {#onboarding}
 
+![](img/onboarding.jpg)
+
 ## New employee and affiliate onboarding checklists
 
 ## Performance plans
@@ -7,6 +9,8 @@
 ## Timesheets
 
 ## Facilities
+
+MML is located within Building 4 on the [NOAA Western Regional Center campus](https://www.wrc.noaa.gov/) and is a division of the [Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/about/marine-mammal-laboratory).  
 
 ### Office space
 
