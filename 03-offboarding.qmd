@@ -8,8 +8,7 @@ Everybody will at some point leave MML. Having a clear offboarding process ensur
 
 ## Offboarding Checklist
 
-Refer to this checklist for separation protocols in areas such as scientific samples, chemicals, project planning database, field gear, manuscripts, paper/electronic reports, and google accounts. 
-[Checklist for AFSC Federal staff](https://drive.google.com/file/d/17hBFFWaAImoVNqHfPJmoAKqGqs8rD1Q2/view)
+Refer to this [checklist for separation protocols](https://drive.google.com/file/d/17hBFFWaAImoVNqHfPJmoAKqGqs8rD1Q2/view) in areas such as scientific samples, chemicals, project planning database, field gear, manuscripts, paper/electronic reports, and google accounts. 
 
 ## Email Access 
 
@@ -19,26 +18,23 @@ If you wish to let people know you’re leaving, set up an auto-responder messag
 
 ## Enterprise Services Portal
 
-Access to the ES Portal is deprovisioned during your Offboarding process, on or before your separation date. [ES Portal login](https://enterpriseservices.servicenowservices.com/esc?id=kb_article_view&sysparm_article=KB0012529) 
+Access to the [ES Portal](https://enterpriseservices.servicenowservices.com/esc?id=kb_article_view&sysparm_article=KB0012529) is deprovisioned during your Offboarding process, on or before your separation date. 
 
 ## Electronic Personnel Folder (eOPF)
 
-If you are transferring to another Federal agency that uses eOPF functionality, your eOPF will automatically transfer with you to that agency. For all other employees separating from the Department of Commerce, access to your eOPF is deprovisioned on or before your separation date. 
+If you are transferring to another Federal agency that uses [eOPF](https://www.commerce.gov/hr/hccs/services/eopf), your eOPF will automatically transfer with you to that agency. For all other employees separating from the Department of Commerce, access to your eOPF is deprovisioned on or before your separation date. 
 
 Before you separate, it is recommended that you make copies of your eOPF documents prior to your separation date and if you are retiring, arrange with your retirement specialist to send copies of any documents filed in your eOPF after your separation to your current mailing address.  
-
-(note to check about the new Login.gov access versus using CAC/PIV)
 
 ## Employee Personal Page (EPP)
 
 You will still be able to access your EPP after you leave the Department of Commerce and/or the Federal government for 90 days after separation. Prior to separating, make sure to add or update your personal email address to your EPP which will be used to send you notifications for forgotten user IDs, temporary passwords, and other notices. 
 
-You can change your email addresses in EPP by selecting ‘Preferences’ from the EPP main menu and then selecting ‘Change E-mail Addresses.’  
- 
- 
+You can change your email addresses in [myEPP]( https://www.nfc.usda.gov/EPPS/index.aspx) by selecting ‘Preferences’ from the EPP main menu and then selecting ‘Change E-mail Addresses.’  
+  
 ## WebTA
 
-Access to your webTA profile will be deprovisioned after your webTA timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
+Access to your [webTA](https://www.commerce.gov/hr/employees/compensation/webta) profile will be deprovisioned after your webTA timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
 
 ## Turning in Equipment
 
