@@ -1,6 +1,6 @@
 # Offboarding {#offboarding} 
 
-![](img/adventure.jpg![image](https://user-images.githubusercontent.com/115736982/203447561-29a2bf65-d061-41eb-b2b8-dfa18ed570d4.png)
+![](770ddbace3a0afa4711a1bf01b59e3f8--dont-panic-douglas-adams-quotes!)(https://user-images.githubusercontent.com/115736982/203447986-d3635f65-3ecc-488d-b916-421dff059040.jpg)
 )
 
 Everybody will at some point leave MML. Having a clear offboarding process ensures there are no loose ends when someone leaves the lab, that others who might carry on work being done can do so most easily, and provides an opportunity to clarify any remaining steps (e.g. publication, data archiving, future collaborations).  
@@ -41,15 +41,15 @@ You can change your email addresses in EPP by selecting ‘Preferences’ from t
 
 Access to your webTA profile will be deprovisioned after your webTA timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
 
-## Turning in equipment
+## Turning in Equipment
 
 Ensure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with the MML Property Manager. Make sure any problems with equipment are documented and that the MML Property Manager and Program Lead have been made aware of them.  
 
-## MML library
+## MML Library
 
 Return all books and reprints checked out from the MML library.  
 
-## Returning key card and office keys
+## Key Card and Office Keys
 
 Key card access to WRC facilities will be terminated [find out if this is the last day onsite]. Office keys should be returned to MML Admin staff. 
 
@@ -63,4 +63,4 @@ Once you have a date selected and Retirement Specialist assigned, please make su
 
 In addition to the process above, please contact the MML Admin once you have decided on a date. They will initiate your SF52, CD-126, CD-527, and your CD-529.
 
-Other helpful links [Are You Ready to Retire Factsheet](https://drive.google.com/file/d/19qhKweyxDZLqp2rLjzVtlpsRvVjc8KyI/view) and [Your Plan for Retirement Decision Points](https://drive.google.com/file/d/1DH1c79OxQdlf-SfBpwSNAsLHbtTd9Ema/view)
+Other helpful links: [Are You Ready to Retire Factsheet](https://drive.google.com/file/d/19qhKweyxDZLqp2rLjzVtlpsRvVjc8KyI/view) and [Your Plan for Retirement Decision Points](https://drive.google.com/file/d/1DH1c79OxQdlf-SfBpwSNAsLHbtTd9Ema/view)
