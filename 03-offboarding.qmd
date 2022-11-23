@@ -2,13 +2,11 @@
 
 ![](img/so_long.jpg)
 
-Everybody will at some point leave MML. Having a clear offboarding process ensures there are no loose ends when someone leaves the lab, that others who might carry on work being done can do so most easily, and provides an opportunity to clarify any remaining steps (e.g. publication, data archiving, future collaborations).  
-
-
+Everybody will at some point leave MML whether an FTE, Affiliate, Contractor, or Intern/PostDoc. Having a clear offboarding process ensures there are no loose ends when someone leaves the lab, that others who might carry on work being done can do so most easily, and provides an opportunity to clarify any remaining steps (e.g. publication, data archiving, future collaborations).  
 
 ## Offboarding Checklist
 
-Refer to this [checklist for separation protocols](https://drive.google.com/file/d/17hBFFWaAImoVNqHfPJmoAKqGqs8rD1Q2/view) in areas such as scientific samples, chemicals, project planning database, field gear, manuscripts, paper/electronic reports, and google accounts. 
+For FTEs, refer to this [Checklist for Federal Employees](https://drive.google.com/file/d/17hBFFWaAImoVNqHfPJmoAKqGqs8rD1Q2/view) for separation protocols in areas such as scientific samples, chemicals, project planning database, field gear, manuscripts, paper/electronic reports, and google accounts. Affiliates, Contractors. and other non-Federal staff please use this [checklist link](https://drive.google.com/file/d/1BdNN2rvgwdyUAuk_9cOlRGw5_ik6K37Q/view).
 
 ## Email Access 
 
@@ -48,7 +46,7 @@ Return all books and reprints checked out from the MML library.
 
 ## Key Card and Office Keys
 
-Key card access to WRC facilities will be terminated [find out if this is the last day onsite]. Office keys should be returned to MML Admin staff. 
+Key card access to WRC facilities will be terminated (_find out if this is the last day onsite_). Office keys should be returned to MML Admin staff. 
 
 ## Retirement Info
 
