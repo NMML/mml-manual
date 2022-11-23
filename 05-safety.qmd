@@ -39,7 +39,7 @@ Remember to include the Shared Labs Manager on all communications about safety i
 
 <br />
 
-#### Requirements for Staff Working in Labs
+**Requirements for Staff Working in Labs**
 
 Staff working in the Shared Labs must demonstrate that they have completed the following:
 
@@ -58,7 +58,7 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 
 <br />
 
-#### General Lab Policies
+**General Lab Policies**
 
 1. The Shared Labs are available to all staff and, at present, we do not require advance reservations to use them. However, to avoid potential scheduling conflicts, staff are **highly** encouraged to put their lab plans on the [MML Shared Labs Google calendar](https://calendar.google.com/calendar/u/0?cid=bm9hYS5nb3ZfZTVybmY2dGdjNXVraWQxZGhkcjNia2xwZWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 2. Ensure that all specimens, equipment, etc. are stored and labeled according to MML Shared Labs guidelines (see section below).
@@ -71,13 +71,13 @@ Staff wishing to use the Shared Labs intermittently for non-lab tasks (e.g., gea
 
 <br />
 
-#### JHAs and SOPs
+**JHAs and SOPs**
 
 Approved Job Hazard Analysis and Standard Operating Procedures documentation are required for all activities conducted in the MML Shared Labs. **Create a workflow for this...**
 
 <br />
 
-#### Storage and Labels
+**Storage and Labels**
 
 All hazardous materials in the labs must be labeled according to AFSC and OSHA guidelines. At minimum, this includes the chemical name and primary hazard (pictogram sticker). **Unknown, unlabeled chemicals are a dangerous and expensive hazard.** They cannot be disposed of until they are identified and tests cost approximately $800 per sample. Pictogram stickers are available from the Shared Labs Manager or AFSC SECO. 
 
@@ -95,7 +95,7 @@ Other items should be stored in your program’s designated area(s) of the labs 
 
 <br />
 
-#### Chemical Inventories and Reporting
+**Chemical Inventories and Reporting**
 
 MML must maintain a detailed inventory of all chemicals used and stored in the field, offices, and storage areas. The inventory is for chemical products only, not specimens stored in chemicals - although your program should keep an inventory of such items for the Tier II Report (see below). 
 
@@ -105,13 +105,13 @@ The Shared Labs Manager is responsible for reviewing the MML chemical inventory 
 
 Each January, AFSC must report totals of ethanol, formaldehyde, and sulfuric acid to the State. This report includes *chemical products as well as specimens stored in chemicals*. In Nov-Dec, the Shared Labs Manager will reach out to programs about inventory these resources, and compile a summary report for AFSC SECO. 
 
-**Formalin Reporting**
+* *Formalin Reporting* *
 
 We are also required to report all new purchases of formalin or formaldehyde to AFSC SECO. Please notify the Shared Labs Manager if you buy these chemicals. 
 
 <br />
 
-#### Freezers
+**Freezers**
 
 MML has 2 large walk-in freezers, 1 mini fridge, 1 commercial standing freezer, and 4 ultra-low standing freezers. **Freezers are for biological specimens only - absolutely no food or beverages are allowed.** Emergency contacts are posted on the door of each unit. 
 
@@ -136,7 +136,7 @@ Reminders:
 
 <br />
 
-#### Cleaning and Waste Disposal
+**Cleaning and Waste Disposal**
 
 Please clean up after yourself in the labs. There are loads of cleaning supplies and tools available to you. 
 
@@ -159,7 +159,7 @@ The Shared Labs Manager will monitor biowaste receptables and coordinate pick-up
 
 <br />
 
-#### Other Shared Labs Resources
+**Other Shared Labs Resources**
 
 - Electric chain hoist
 - Steam kettles (2)
@@ -211,7 +211,7 @@ All participants in NOAA aerial surveys must complete the following:
 
 This section provides a centralized place for personnel to find information about aviation safety equipment that is shared among MML Programs. It includes information about aviation safety equipment inventory, usage, and maintenance.
 
-#### Relevant Acronyms
+**Relevant Acronyms**
 - AOC - Aircraft Operations Center
 - ELT - emergency location transmitter
 - HEED - helicopter emergency egress device (compressed air bottle)
@@ -221,14 +221,14 @@ This section provides a centralized place for personnel to find information abou
 
 <br />
 
-#### Equipment
+**Equipment**
 When flying on aircraft owned by NOAA's AOC, you will only need to supply your own aviation drysuit. The following safety gear is usually provided by AOC: immersion (gumby) suits, PFDs, HEEDs, and PLBs. Additionally, the aircraft is equipped with a liferaft, first aid kit, fire containment kit (for laptop fires, etc.), fire extinguishers, and ELTs. Check with your AOC Programs liaison to verify what equipment will be provided for your project.
 
 When flying on other aircraft, contact the vendor to verify what equipment they provide versus what equipment you need to supply yourself.
 
 <br />
 
-##### Aviation drysuits
+**Aviation drysuits**
 
 The Lab's aviation drysuits are currently located in the MML cage in Building 32. Contact your Program Leader for access to the cage.
 
@@ -251,19 +251,19 @@ The aviation drysuits are inventoried in the AerialDrySuitDatabase.accdb on the 
 
 <br />
 
-##### Immersion (Gumby) Suits
+**Immersion (Gumby) Suits**
 
 <br />
 
-##### PFDs and Accessories
+**PFDs and Accessories**
 
 <br />
 
-##### HEEDs
+**HEEDs**
 
 <br />
 
-##### Personal Locator Beacons (PLBs)
+**PLBs**
 Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping registration up-to-date, testing and replacing batteries, and following regular servicing schedules. Points of contact for PLB management in each Program are below.
 
 | Program | Contact | Email |
@@ -274,7 +274,7 @@ Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping
 
 <br />
 
-##### Helmets
+**Helmets**
 When chartering helicopters, verify with the vendor or operator whether helmets are provided. When using fixed-wing aircraft, helmets are optional but may be used as an added safety precaution during takeoffs and landings. PEP has several helmets in its Program inventory. Contact John Jansen (john.jansen@noaa.gov) for more information.
 
 <br />
