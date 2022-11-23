@@ -30,7 +30,7 @@ Before you separate, it is recommended that you make copies of your eOPF documen
 
 You will still be able to access your EPP after you leave the Department of Commerce and/or the Federal government for 90 days after separation. Prior to separating, make sure to add or update your personal email address to your EPP which will be used to send you notifications for forgotten user IDs, temporary passwords, and other notices. 
 
-You can change your email addresses in [myEPP]( https://www.nfc.usda.gov/EPPS/index.aspx) by selecting ‘Preferences’ from the EPP main menu and then selecting ‘Change E-mail Addresses.’  
+You can change your email addresses in [myEPP](https://www.commerce.gov/hr/employees) by selecting ‘Preferences’ from the EPP main menu and then selecting ‘Change E-mail Addresses.’  
   
 ## WebTA
 
