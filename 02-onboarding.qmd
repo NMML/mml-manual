@@ -8,21 +8,15 @@ Welcome to MML, a division of the [Alaska Fisheries Science Center](https://www.
 
 This [Onboarding Checklist](https://drive.google.com/file/d/1Gxg-tw76NeptYFkya7M6JSyxsy31mmAu/view) provides prompts to guide supervisors and staff through the first day, Week 1, and Week 2 for Federal and Non-Federal employees. 
 
-## Required Training
-
-New employees will need to complete a number of training modules in the [Commerce Learning Center](https://doc.csod.com/client/doc/default.aspx). Mandatory training schedules and links to NOAA required courses are provided on the main page. 
-
-## Performance Plans
-
-For FTEs, performance plans for each fiscal year (October to October) are created and updated in the [Performance Appraisal and Workforce Solution (PAWS)]( https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management) website. Please check out the [user guide](https://docs.google.com/document/d/1rXX3En7JAa9btXmYjZDvdR1WvsbWugvgWMtdb0K691k/edit#heading=h.b8y4yfr6nrrf) to help guide you on how to enter your accomplishments in PAWS. 
-
-## Timesheets
-
-For FTEs, guidance for timekeeping can be found [here](https://docs.google.com/document/d/1cLZ6i_k2qjqKGW-Aq0ctx8InpR-h-jSm/edit). Additional resources and links to forms to set up your work schedule, telework, and request overtime/travel compensatory time can be found [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance). 
+Our Divisional contact for onboarding new employees is Mary Foote. 
 
 ## Facilities
 
-MML is located within Building 4 on the [NOAA Western Regional Center campus](https://www.wrc.noaa.gov/). 
+MML is located at the west end (both floors) of Building 4 on the [NOAA Western Regional Center campus](https://www.wrc.noaa.gov/). 
+
+### Key Cards
+
+NMFS requires the use of the [Common Access Card (CAC)](https://sites.google.com/noaa.gov/myafsc/technology/it-security/common-access-card-cac) to access buildings on the WRC campus and for login to Windows and Macintosh computers. Be prepared to show your CAC to the guards at the front gate and the front door of your work building each day. Cards must be [renewed every three years](https://sites.google.com/noaa.gov/myafsc/administrative/security/cac-renewal).  
 
 ### Office and Laboratory Space
 
@@ -30,9 +24,9 @@ AFSC policy states:
 
 _As stewards of the NOAA Fisheries science mission in Alaska, the AFSC has a mandate to ensure our use of all available resources including physical office, laboratory, and warehouse space, supports the mission. Divisions have differing needs for space and the Science Director's Office has delegated space allocation to the Divisions. If you have questions regarding how decisions regarding space are made in your Division, please pose these to your Divisional leadership._
 
-Office assignments are based on criteria that include time in service, highest held degree, performance, and whether an FTE or non-Federal employee.
+Office assignments are based on criteria that include time in service, highest held degree, performance, and whether an FTE or non-Federal employee. Check with MML Admin first to see if a they have a key for your office. If not, [request a key](https://www.wrc.noaa.gov/forms/KeyRequest.pdf) from the WRC Security office. Please keep in mind this form can only be signed by your Division Director.
 
-For information on Laboratory Space use see Chapter 6.
+MML's laboratory spaces are shared by all programs and staff. For information on lab space use see the Lab Safety chapter.
 
 ### Conference Rooms and Hybrid Meetings
 
@@ -40,18 +34,32 @@ Shared resources such as [conference rooms]( https://sites.google.com/noaa.gov/m
 
 With meetings now occurring onsite and virtually, the AFSC has provided [Guidance on Holding Inclusive Meetings in a Hybrid Work Environment](https://docs.google.com/document/d/1K8mBHH6JOdKC4aT0L4jHmTJot9n4fnW9_L9kwdclCkQ/edit). Links to setting up conference rooms with access to Google Meet, Cisco WebEx, and toll free conference call lines can be found [here](https://sites.google.com/noaa.gov/myafsc/reservations/afsc-conference-rooms-built-around-google-meet-kits).
 
-### Key Card and Office Access
-
-NMFS requires the use of the [Common Access Card (CAC)](https://sites.google.com/noaa.gov/myafsc/technology/it-security/common-access-card-cac) for login to Windows and Macintosh computers and to access buildings on the WRC campus. Cards must be [renewed every three years](https://sites.google.com/noaa.gov/myafsc/administrative/security/cac-renewal).  
-
-Check with MML Admin first to see if a they have a key for your office. If not, [request a key](https://www.wrc.noaa.gov/forms/KeyRequest.pdf) from the WRC Security office. Please keep in mind this form can only be signed by your Division Director.
-
 ### Parking and Transportation 
 
-Parking onsite requires obtaining a [WRC decal](https://www.wrc.noaa.gov/forms/WRC%20Parking%20Decal%20v2008a.pdf) for your vehicle. 
+Parking onsite requires obtaining a [WRC decal](https://www.wrc.noaa.gov/forms/WRC%20Parking%20Decal%20v2008a.pdf) for your vehicle. Take your completed form to the Pass & ID office in Building 1 (west end, top floor). 
 
 NOAA also offers a [non-taxable transit-fare subsidy program](https://sites.google.com/noaa.gov/cao/about-ocao/logistics-operations-division/noaa-transit-subsidy-program) to encourage federal employees to use public mass transportation while commuting to and from work. Reimbursement to employees who use a non-motorized bicycle for a substantial portion of travel between your residence and the worksite is also availabe.    
 
-## Promotions and Awards
+## Required Training
 
-The AFSC is fortunate to have an outstanding workforce and there are many staff members who deserve recognition for their accomplishments. Links to information about promotions and awards can be found [here](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management).
+New employees will need to complete a number of training modules in the [Commerce Learning Center](https://doc.csod.com/client/doc/default.aspx). Mandatory training schedules and links to NOAA required courses are provided on the main page. Some trainings are only required once while others must be completed annually; check your email for reminders and deadlines. 
+
+Depending on your job duties, you may also be required to complete specialized training, such as Aviation Egress (for field work involving aircraft), Formaldehyde Safety, or Forklift training. Check with your supervisor.
+
+## Time and Attendance
+
+Tammy Ahlers is MML's designated timekeeper. Please be sure to use the (N)MML Timekeeper group email account for all timekeeping-related communications. 
+
+One of the first things you will do as a new employee is set up your work schedule (i.e., Traditional, Compressed, or Maxiflex) and telework plan with your supervisor. More information about your options can be found [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance).
+
+We use [webTA](https://docwebta.eas.commerce.gov/webta/) to submit biweekly timesheets and request leave. Guidance for timekeeping in webTA can be found [here](https://docs.google.com/document/d/1cLZ6i_k2qjqKGW-Aq0ctx8InpR-h-jSm/edit). 
+
+## IT Resources
+
+*TBD*
+
+## Performance Plans
+
+Each fiscal year (October to October), you will develop a performance plan with your supervisor. Performance plans outline your work duties and priorities for the year, and your ability to achieve or make progress on those tasks impacts things like pay increases and bonuses. You will have the opportunity to check in with your supervisor and adjust your performance plan (as needed) in March or April. 
+
+Plans are created and updated in the [Performance Appraisal and Workforce Solution (PAWS)]( https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management) website. Please check out the [user guide](https://docs.google.com/document/d/1rXX3En7JAa9btXmYjZDvdR1WvsbWugvgWMtdb0K691k/edit#heading=h.b8y4yfr6nrrf) to help guide you on how to enter your accomplishments in PAWS. 
