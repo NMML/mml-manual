@@ -4,8 +4,16 @@
 
 The lab keeps track of fieldwork training completed by all personnel in a [MML Training Database](https://docs.google.com/spreadsheets/d/1gZfKhD85VjolvN2jiEc1u4dXaJbkZZTVuVN5v-qZZbk/edit#gid=1613635922). The database is organized by Program and maintained by the MML Operations team. To update your information, email a copy of your training certificate to Jim Freed (james.freed@noaa.gov). 
 
-### Aviation 
-{{< video https://www.youtube.com/watch?v=gATvx8dGkho>}}
+### Aviation
+::: {layout-ncol=2}
+
+![](img/training_egress1.JPG)
+
+![](img/training_egress2.JPG)
+
+:::
+
+![](img/training_water.JPG)
 
 <br />
 
