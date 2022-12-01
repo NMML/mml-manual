@@ -25,7 +25,7 @@ In addition to your travel request, you will need to complete the following, whe
 - DOC [Form CD-81 Authorization for Paid Overtime and/or Holiday Work, and for Compensatory Overtime](https://drive.google.com/file/d/1CMZNBhW8dGxtPmhE3rrEvNm7VyZgz8oW/view)
 - webTA Premium Pay Requests (Holiday Worked, Hazard Pay Differential, Over 40 Overtime, Comp Time/Travel Earned)
 
-We have prepared this document(TBD link to a Google doc) to help you through the process.
+We have prepared this document (TBD link to a Google doc) to help you through the process.
 
 ## Travel Requests - Foreign
 
@@ -37,23 +37,28 @@ We have prepared this document(TBD link to a Google doc) to help you through the
 
 ## Last Steps Before You Go...
 
-- If you are normally on an alternative work schedule, tell Tammy to switch you over to a straight 8s schedule for your time on travel.
-- Make sure you and/or your field party chief have: 
-  -  Your travel authorization
-  -  Reservation details
-  -  Government ID
-  -  Government travel card (if applicable)
-  -  MML emergency contact instructions
-  -  Marine mammal permit
-- If you are traveling internationally: 
-  - Government passport
-- What else?
+[ ] Ask your supervisor to send Tammy an email confirming the budget code for your premium pay.
+[ ] If you are normally on an alternative work schedule, tell Tammy to switch you over to a straight 8s schedule for your time on travel.
+[ ] Make sure you and/or your field party chief have: 
+  [ ]  Your travel authorization
+  [ ]  Reservation details
+  [ ]  Government ID
+  [ ]  Government travel card (if applicable)
+  [ ]  MML emergency contact instructions
+  [ ]  Marine mammal permit
+[ ] If you are traveling internationally: 
+  [ ] Government passport
+[ ] What else?
 
 ## Travel Reimbursement
 
+[ ] If you are normally on an alternative work schedule, tell Tammy when you return from the field so she can switch you back from a straight 8s schedule.
+[ ] Receipts, reimbursement form...
+[ ] Final travel comp time form...
+
 ## FAQs
 
-- How do I know if I qualify for Hazard Pay?
+- How do I know if I qualify for Hazard Pay Differential?
 - What do I do if I need to change my flight reservations?
 - What do I do if my flight is canceled?
 - What if I go over my requested amount of overtime and/or comp time?
