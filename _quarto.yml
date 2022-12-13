@@ -36,4 +36,4 @@ bibliography: [references.bib, book.bib]
 
 format:
   html:
-    link-external-newwindow:
+    link-external-newwindow: true
