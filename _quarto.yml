@@ -34,3 +34,6 @@ book:
 # not sure what the following line does; those files are present
 bibliography: [references.bib, book.bib]
 
+format:
+  html:
+    link-external-newwindow:
