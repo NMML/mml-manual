@@ -8,7 +8,7 @@ The [Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/region/alas
 
 NOAA Fisheries' [Marine Mammal Laboratory](https://www.fisheries.noaa.gov/about/marine-mammal-laboratory/) site has great general information about the work that we do.
 
-The [NOAA Staff Directory](https://nsd.rdc.noaa.gov/) is a quick way to look up someone's email, phone number, and line office. Staff can log in to the site to also view organization, position title, and employee type. 
+The [NOAA Staff Directory](https://nsd.rdc.noaa.gov/) is a quick way to look up someone's email, phone number, and line office. Staff can log into the site to also view organization, position title, and employee type. 
 
 ## Internal sites
 
