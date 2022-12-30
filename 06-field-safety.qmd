@@ -39,10 +39,19 @@ All NOAA small boat operators must complete the following list of trainings and 
 
 | Training                                 | Required Frequency | Recommended Frequency | Notes                                               |
 |:---------------------------------------- |:------------------:|:---------------------:|:----------------------------------------------------| 
-|Small Boat Operator|one time|every 3 years|8 hour class|
-|NOAA Componenet Course|one time|one time|8 hour class (no expiration date)|
-|Personal Qualifications Standards|every 3 years|every 3 years|also required for any crew onboard|
-|Fast Rescue Boat|every 5 years|every 5 years|3-5 day class required if launching from a NOAA ship|
+|Small Boat Operator (SBO)                       |one time            |every 3 years          |8 hour class|
+|NOAA Component Course                    |one time            |one time               |8 hour class (no expiration date)|
+|Personal Qualifications Standards (PQS)         |every 3 years       |every 3 years          |also required for any crew members|
+|Fast Rescue Boat                         |every 5 years       |every 5 years         |3-5 day class required if launching from a NOAA ship|
+|Cold Water Survival|every 3 years|every 3 years|also required for any crew members|
+|Shore Landing/Personnel Transfer| | |program specific, work with instructor/vendor|
+|SB Trailering|  |as needed|on campus, taught by MML staff|
+|Bloodborne Pathogen Awareness ([online CLC course])(https://doc.csod.com/client/doc/default.aspx?ReturnUrl=https%3a%2f%2fdoc.csod.com%2fcatalog%2fCustomPage.aspx%3fid%3d20000416)|every 2 years|every 2 years|taken along with First Aid, CPR/AED training|
+|SB Standards & Procedures Manual Policy Test (online CLC course)|every 3 years|every 3 years|in coordination with PQS training|
+|NOAA Component Test (online CLC course)|every 3 years|every 3 years|in coordination with PQS training|
+
+A completed NOAA Small Boat Operator and Crewmember Authorization Form (NOAA Form 57-19-04 (3-19)) is required for all SBOs & crew. This is reviewed and validated annually by the Vessel Operations Coordinator. The SBO requirement can also be met via a USCG Auxiliary (USCGA) Boating Skills and Seamanship (BS&S) or equivalent course. Ask MML Operations Management for a list of resources.
+
 <br />
 
 ## Aviation Safety Equipment
