@@ -33,8 +33,16 @@ All participants in NOAA aerial surveys must complete the following:
 
 <br />
 
-### Small boats...
+### Small Boat
 
+All NOAA small boat operators must complete the following list of trainings and documentation in order to [operate a NOAA small boat](https://www.omao.noaa.gov/learn/small-boat-program/resources/training).
+
+| Training                                 | Required Frequency | Recommended Frequency | Notes                                               |
+|:---------------------------------------- |:------------------:|:---------------------:|:----------------------------------------------------| 
+|Small Boat Operator|one time|every 3 years|8 hour class|
+|NOAA Componenet Course|one time|one time|8 hour class (no expiration date)|
+|Personal Qualifications Standards|every 3 years|every 3 years|also required for any crew onboard|
+|Fast Rescue Boat|every 5 years|every 5 years|3-5 day class required if launching from a NOAA ship|
 <br />
 
 ## Aviation Safety Equipment
