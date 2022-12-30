@@ -104,9 +104,9 @@ The aviation drysuits are inventoried in the AerialDrySuitDatabase.accdb on the 
 
 ### PFDs and Accessories
 
-Aviation Switliks
+Aviation Switliks are also available to reserve through the Aviation Drysuit Schedule link above. These PFDs are inspected and serviced and equipped with CO2 cartridges, signaling devices (mirror, streamer, flashlight), knife, and PLB (see below). 
 
-SBO
+SBO _program specific? include this under the boating section below_
 
 <br />
 
@@ -120,7 +120,7 @@ Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping
 | Program | Contact | Email |
 | --- | --- | --- |
 | AEP | Katie Luxa | katie.luxa@noaa.gov |
-| CAEP | | |
+| CAEP |_Kim S checking on this_ | |
 | PEP | Heather Ziel | heather.ziel@noaa.gov |
 
 <br />
