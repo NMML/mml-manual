@@ -40,7 +40,7 @@ All NOAA small boat operators must complete the following list of trainings and 
 | Training                                 | Required Frequency | Recommended Frequency | Notes                                               |
 |:---------------------------------------- |:------------------:|:---------------------:|:----------------------------------------------------| 
 |Small Boat Operator (SBO)|one time |every 3 years  |8 hour class|
-|NOAA Component Course|one time |one time  |8 hour class (no expiration date)|
+|NOAA Component Course|one time |one time  |8 hour class|
 |Personal Qualifications Standards (PQS)|every 3 years |every 3 years  |also required for any crew members|
 |Fast Rescue Boat|every 5 years |every 5 years  |3-5 day class required if launching from a NOAA ship|
 |Cold Water Survival|every 3 years|every 3 years|also required for any crew members|
