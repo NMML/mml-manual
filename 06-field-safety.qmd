@@ -106,8 +106,6 @@ The aviation drysuits are inventoried in the AerialDrySuitDatabase.accdb on the 
 
 Aviation Switliks are also available to reserve through the Aviation Drysuit Schedule link above. These PFDs are inspected and serviced and equipped with CO2 cartridges, signaling devices (mirror, streamer, flashlight), knife, and PLB (see below). 
 
-SBO _program specific? include this under the boating section below_
-
 <br />
 
 ### HEEDs
