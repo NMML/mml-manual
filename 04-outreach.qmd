@@ -51,7 +51,7 @@ Guidance and links for hosting a Student Volunteer and a Non-Student Volunteer/G
 
 ## Presentations and Publications
 
-One way to read a broader audience and promote MML research is through [presentations and publications](https://www.fisheries.noaa.gov/alaska/science-data/alaska-fisheries-science-center-publications#tech-memos). Support for creating poster presentations is available through [AFSC Graphics](https://sites.google.com/noaa.gov/myafsc/communications/graphics)
+One way to reach a broader audience and promote MML research is through [presentations and publications](https://www.fisheries.noaa.gov/alaska/science-data/alaska-fisheries-science-center-publications#tech-memos). Support for creating poster presentations is available through [AFSC Graphics](https://sites.google.com/noaa.gov/myafsc/communications/graphics)
 
 All formal research documents that present data, results, discuss findings, or offer conclusions in which an author or coauthor cites AFSC affiliation are required to go through the Center's [Research Publication Tracking System (RPTS)](https://sites.google.com/noaa.gov/myafsc/communications/publications) review/approval process. MML also requires that papers with a MML lead author undergo scientific review by two peers prior to loading the document into RPTS.   
 
