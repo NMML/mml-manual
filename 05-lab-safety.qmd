@@ -172,4 +172,8 @@ At this time, there is not a chemical fume hood available in the Shared Labs. Op
 
 ## MML Acoustics Lab
 
+The acoustics lab provides space for storage, maintenance, and cleaning of passive acoustic moorings used primarily by CAEP (contact Jessica Crance).
+
 ## MML Tech Lab
+
+The tech lab provides storage space for electronic equipment that is temperature sensitive and should not be stored in the hangar. Each program has an assigned space within the lab. 
