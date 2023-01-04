@@ -34,7 +34,8 @@ All participants in NOAA aerial surveys must complete the following:
 <br />
 
 ### Small Boat
-<br />
+
+
 All NOAA small boat operators must complete the following list of trainings and documentation in order to [operate a NOAA small boat](https://www.omao.noaa.gov/learn/small-boat-program/resources/training).
 
 | Training                                 | Required Frequency | Recommended Frequency | Notes                                               |
@@ -53,6 +54,7 @@ All NOAA small boat operators must complete the following list of trainings and 
 A completed NOAA Small Boat Operator and Crewmember Authorization Form (NOAA Form 57-19-04 (3-19)) is required for all SBOs & crew. This is reviewed and validated annually by the Vessel Operations Coordinator. 
 
 The SBO requirement can also be met via a USCG Auxiliary (USCGA) Boating Skills and Seamanship (BS&S) or equivalent course. Ask MML Operations Management for a list of resources.
+
 <br />
 
 ## Aviation Safety Equipment
@@ -77,6 +79,7 @@ When flying on other aircraft, contact the vendor to verify what equipment they 
 <br />
 
 ### Aviation drysuits
+
 The Lab's aviation drysuits are currently located in the MML cage in Building 32. Contact your Program Leader for access to the cage.
 
 The aviation drysuits are inventoried in the AerialDrySuitDatabase.accdb on the LAN (/Programs_Share/NMML_Documents/Aviation_Equipment_\&\_Training/Aerial Dry Suits). Contact Christy Sims if you have updates for the database (christy.sims@noaa.gov).
@@ -113,6 +116,7 @@ Aviation Switliks are also available to reserve through the Aviation Drysuit Sch
 <br />
 
 ### Personal Locator Beacons (PLBs)
+
 Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping registration up-to-date, testing and replacing batteries, and following regular servicing schedules. Points of contact for PLB management in each Program are below.
 
 | Program | Contact | Email |
@@ -124,6 +128,7 @@ Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping
 <br />
 
 ### Helmets
+
 When chartering helicopters, verify with the vendor or operator whether helmets are provided. When using fixed-wing aircraft, helmets are optional but may be used as an added safety precaution during takeoffs and landings. PEP has several helmets in its Program inventory. Contact John Jansen (john.jansen@noaa.gov) for more information.
 
 <br />
