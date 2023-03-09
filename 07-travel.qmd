@@ -14,7 +14,20 @@ Note: These instructions apply primarily to Federal employees. Affiliate staff s
 * Determine if you need a government travel card
 * ...
 
-## Travel Requests - Domestic
+## Travel Request Deadlines
+
+As of March 6, 2023, please submit travel requests to Tammy following these deadlines: 
+
+- Domestic travel: at least 2 weeks prior to travel
+- Foreign travel: at least 4 weeks prior to travel (assuming you do not need to renew your passport or have a visa)
+- Invitational travel:
+ - New travelers: add 6 weeks to the above deadlines
+ - Previous traveler who did not travel last year: add 4 weeks to the above deadlines
+ - Previous traveler who traveled last year: same as the above deadlines
+
+If you have any other complex issues (a name change, you need a visa for foreign travel, etc.), contact Tammy *early* to figure out your specific deadlines.
+
+## Domestic Travel
 
 Note: If any portion of your trip takes place in international waters, you must also seek foreign travel approval. 
 
@@ -30,7 +43,7 @@ In addition to your travel request, you will need to complete the following, whe
 
 We have prepared this document (TBD link to a Google doc) to help you through the process.
 
-## Travel Requests - Foreign
+## Foreign Travel
 
 - Forms
 - Passports
@@ -42,24 +55,24 @@ We have prepared this document (TBD link to a Google doc) to help you through th
 
 ## Last Steps Before You Go...
 
-[ ] Ask your supervisor to send Tammy an email confirming the budget code for your premium pay.
-[ ] If you are normally on an alternative work schedule, tell Tammy to switch you over to a straight 8s schedule for your time on travel.
-[ ] Make sure you and/or your field party chief have: 
-  [ ]  Your travel authorization
-  [ ]  Reservation details
-  [ ]  Government ID
-  [ ]  Government travel card (if applicable)
-  [ ]  MML emergency contact instructions
-  [ ]  Marine mammal permit
-[ ] If you are traveling internationally: 
-  [ ] Government passport
-[ ] What else?
+- Ask your supervisor to send Tammy an email confirming the budget code for your premium pay.
+- If you are normally on an alternative work schedule, tell Tammy to switch you over to a straight 8s schedule for your time on travel.
+- Make sure you and/or your field party chief have: 
+ - Your travel authorization
+ - Reservation details
+ - Government ID
+ - Government travel card (if applicable)
+ - MML emergency contact instructions
+ - Marine mammal permit
+- If you are traveling internationally: 
+ - Government passport
+- What else?
 
 ## Travel Reimbursement
 
-[ ] If you are normally on an alternative work schedule, tell Tammy when you return from the field so she can switch you back from a straight 8s schedule.
-[ ] Receipts, reimbursement form...
-[ ] Final travel comp time form...
+- If you are normally on an alternative work schedule, tell Tammy when you return from the field so she can switch you back from a straight 8s schedule.
+- Receipts, reimbursement form...
+- Final travel comp time form...
 
 ## FAQs
 
