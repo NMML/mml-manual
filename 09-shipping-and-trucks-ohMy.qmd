@@ -1,0 +1,33 @@
+# Shipping, Trucks, and other obscure processes
+
+## How do I ship something small?
+
+There are contracts with both UPS and FedEx that provide us with fast shipping at great prices. 
+Shipping labels are provided in the supply room or labels can be set up online. Ask someone in Admin for the log in info. 
+
+For shipments within the lower 48 use UPS
+For shipments to Alaska use FedEx.  However, FedEx only ships to Anchorage and then your package will travel by USPS. 
+If your shipment is time sensitive and needs to go to somewhere in Alaska that Alaska Airlines flies, consider GoldStreaking with Alaska Air Cargo.
+Gold Streak requires a purchase card holder to drop off the package at Alaska Air Cargo. Your package will travel on exisiting Alaska Airline flights and Gold Streak prioritizes your package. 
+
+Provide a copy of the shipping receipt to the MML Admin Budget Analyst. 
+
+## How do I ship something huge?
+
+The WRC has a shipping department in Building 8 but there is currently no one in the roll for setting up shipments by truck or barge. 
+In the meantime, AFSC has taken on this task and currently Elaina Jorgenson is tasked with helping to set up the GBL.
+
+1. If you know you will need to ship items please give her at least a good 30+ days, when sending in the NF42-15 shipping request. 
+2. If you know where you are shipping to and know the vendor you want to use, reach out to the vendor and obtain a quote. If possible. That can accompany the NF42-15
+3. Complete the NF42-15 and make sure you list any trackable property leaving campus (with a property sticker "CD0000#######") and share with AJ.  
+4. AJ will initial or sign next to the CD numbers listed on the NF42-15 to confirm you have coordinated with her.
+5. Make sure the correct budget code is listed and that the MML Budget Analyst has signed it before the NF42-15 is submitted to Elaina.
+6. Elaina will put together the GBL shipping request.
+
+IF you need to find a vendor, confirm that they are registered and active in SAM. You can do this by logging into the [SAM website]( https://sam.gov/content/home) and click on search and type in the vendor's name.
+
+## Where are the keys to the truck?
+
+There is a researvation and signout sheet for the MML vehicles in the supply room. The keys are in the drawers below the reservation and signout sheet. 
+There are gas cards attached to the vehicle key. Please fill the tank before it drops to 1/4 tank. 
+All gas receipts go to the MML Budget Analyst.
