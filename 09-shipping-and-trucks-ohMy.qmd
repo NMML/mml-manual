@@ -28,7 +28,7 @@ In the meantime, AFSC has taken on this task and currently Elaina Jorgenson is t
 
 IF you need to find a vendor, confirm that they are registered and active in SAM. You can do this by logging into the [SAM website]( https://sam.gov/content/home) and click on search and type in the vendor's name.
 
-![](img/Truck.jpg)
+![](img/Truck_sm.jpg)
 
 ## Where are the keys to the truck?
 
