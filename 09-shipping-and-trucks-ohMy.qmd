@@ -1,6 +1,6 @@
 # Shipping, Trucks, and other obscure processes
 
-![](img/SomethingBig.jpg)
+![](img/SomethingBig.JPG)
 
 ## How do I ship something small?
 
