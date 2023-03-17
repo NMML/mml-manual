@@ -1,5 +1,7 @@
 # Shipping, Trucks, and other obscure processes
 
+![](img/SomethingBig.jpg)
+
 ## How do I ship something small?
 
 There are contracts with both UPS and FedEx that provide us with fast shipping at great prices. 
@@ -26,8 +28,12 @@ In the meantime, AFSC has taken on this task and currently Elaina Jorgenson is t
 
 IF you need to find a vendor, confirm that they are registered and active in SAM. You can do this by logging into the [SAM website]( https://sam.gov/content/home) and click on search and type in the vendor's name.
 
+![](img/Truck.jpg)
+
 ## Where are the keys to the truck?
 
 There is a researvation and signout sheet for the MML vehicles in the supply room. The keys are in the drawers below the reservation and signout sheet. 
 There are gas cards attached to the vehicle key. Please fill the tank before it drops to 1/4 tank. 
 All gas receipts go to the MML Budget Analyst.
+
+Additional information can be found on the [AFSC Intranet Vehicles page.](https://sites.google.com/noaa.gov/myafsc/reservations/vehicles?authuser=0)
