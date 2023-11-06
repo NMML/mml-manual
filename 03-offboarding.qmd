@@ -34,9 +34,9 @@ You will still be able to access your EPP after you leave the Department of Comm
 
 You can change your email addresses in [myEPP](https://www.commerce.gov/hr/employees) by selecting ‘Preferences’ from the EPP main menu and then selecting ‘Change E-mail Addresses.’  
   
-## WebTA
+## GovTA
 
-Access to your [webTA](https://www.commerce.gov/hr/employees/compensation/webta) profile will be deprovisioned after your MML webTA timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
+Access to your [GovTA](https://www.commerce.gov/hr/practitioners/compensation-policies/GovTA) profile will be deprovisioned after your MML webTA timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
 
 ## Turning in Equipment
 
