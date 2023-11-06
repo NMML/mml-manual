@@ -121,7 +121,7 @@ Each Program in MML manages their own PLBs. Maintanence of PLBs includes keeping
 | Program | Contact | Email |
 | --- | --- | --- |
 | AEP | Katie Luxa | katie.luxa@noaa.gov |
-| CAEP |_Kim S checking on this_ | |
+| CAEP |Janice Waite| janice.waite@noaa.gov|
 | PEP | Heather Ziel | heather.ziel@noaa.gov |
 
 <br />
