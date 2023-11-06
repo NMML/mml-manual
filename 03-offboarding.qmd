@@ -36,7 +36,7 @@ You can change your email addresses in [myEPP](https://www.commerce.gov/hr/emplo
   
 ## GovTA
 
-Access to your [GovTA](https://www.commerce.gov/hr/practitioners/compensation-policies/GovTA) profile will be deprovisioned after your MML webTA timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
+Access to your [GovTA](https://www.commerce.gov/hr/practitioners/compensation-policies/GovTA) profile will be deprovisioned after your MML timekeeper marks your last timesheet as ‘final’, typically within 14 days or one pay period of your separation date.    
 
 ## Turning in Equipment
 
